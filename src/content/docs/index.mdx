@@ -1,0 +1,64 @@
+---
+title: DMS Source
+description: The Dallas Makerspace knowledge base — committees, tools, training, rules, and history. Open source, fast, and community-maintained.
+template: splash
+hero:
+  title: DMS Source
+  tagline: The Dallas Makerspace knowledge base — committees, tools, training, rules, and history. Open, fast, and community-maintained.
+  image:
+    file: ../../assets/dms-logo.png
+    alt: Dallas Makerspace logo
+  actions:
+    - text: New member? Start here
+      link: /dms-source/onboarding/
+      icon: rocket
+    - text: Rules & Policies
+      link: /dms-source/rules-and-policies/
+      icon: open-book
+      variant: secondary
+    - text: GitHub
+      link: https://github.com/bharvey88/dms-source
+      icon: github
+      variant: minimal
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Find your shop
+
+<CardGrid>
+	<LinkCard title="Woodshop" href="/dms-source/woodshop/" description="Table saws, CNC, lathes, training, and rules." />
+	<LinkCard title="Laser" href="/dms-source/laser/" description="Laser cutters, materials, and certification." />
+	<LinkCard title="Machine Shop" href="/dms-source/machine-shop/" description="Mills, metal lathes, HAAS CNC, and tooling." />
+	<LinkCard title="3D Fabrication" href="/dms-source/3d-fabrication/" description="Printers, filament, slicing, and print queues." />
+	<LinkCard title="Electronics" href="/dms-source/electronics/" description="Benches, soldering, test gear, and components." />
+	<LinkCard title="Metal Shop" href="/dms-source/metal-shop/" description="Welding, plasma, and metal fabrication." />
+	<LinkCard title="Glassworks" href="/dms-source/glassworks/" description="Flameworking, fusing, and kilns." />
+	<LinkCard title="Ceramics" href="/dms-source/ceramics/" description="Wheels, kilns, glazing, and studio rules." />
+</CardGrid>
+
+<p style="text-align:center; margin-top:1rem;">
+	…and many more in the sidebar: every committee and special interest group has its own section.
+</p>
+
+## About this site
+
+<CardGrid stagger>
+	<Card title="Everything in one place" icon="magnifier">
+		Content migrated from the DMS Confluence ("Source") and the original
+		MediaWiki, fully searchable from the search bar above.
+	</Card>
+	<Card title="The legacy archive" icon="seti:db">
+		1,600+ pages of DMS history — old meeting minutes, retired tools, and past
+		projects — preserved in the [Legacy Wiki Archive](/dms-source/archive/).
+	</Card>
+	<Card title="Open source" icon="github">
+		No proprietary wiki lock-in: the whole site is Markdown in a
+		[public GitHub repo](https://github.com/bharvey88/dms-source). Fix a typo
+		with the "Edit page" link on any page.
+	</Card>
+	<Card title="Get involved" icon="discourse">
+		Questions or ideas? Join the conversation on
+		[Talk, the DMS forum](https://talk.dallasmakerspace.org/).
+	</Card>
+</CardGrid>

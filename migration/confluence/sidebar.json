@@ -1,0 +1,134 @@
+[
+ {
+  "label": "3D Fabrication",
+  "dir": "3d-fabrication"
+ },
+ {
+  "label": "Amateur Radio",
+  "dir": "amateur-radio"
+ },
+ {
+  "label": "Animatronics",
+  "dir": "animatronics"
+ },
+ {
+  "label": "Automotive",
+  "dir": "automotive"
+ },
+ {
+  "label": "Blacksmithing",
+  "dir": "blacksmithing"
+ },
+ {
+  "label": "Board of Directors",
+  "dir": "board-of-directors"
+ },
+ {
+  "label": "Ceramics",
+  "dir": "ceramics"
+ },
+ {
+  "label": "Creative Arts",
+  "dir": "creative-arts"
+ },
+ {
+  "label": "Digital Media",
+  "dir": "digital-media"
+ },
+ {
+  "label": "Dye Sub",
+  "dir": "dye-sub"
+ },
+ {
+  "label": "Electronics",
+  "dir": "electronics"
+ },
+ {
+  "label": "Fiber Art",
+  "dir": "fiber-art"
+ },
+ {
+  "label": "Finance",
+  "dir": "finance"
+ },
+ {
+  "label": "Fine Art",
+  "dir": "fine-art"
+ },
+ {
+  "label": "Glassworks",
+  "dir": "glassworks"
+ },
+ {
+  "label": "Jewelry Studio",
+  "dir": "jewelry-studio"
+ },
+ {
+  "label": "Laser",
+  "dir": "laser"
+ },
+ {
+  "label": "Leatherworking",
+  "dir": "leatherworking"
+ },
+ {
+  "label": "Logistics & Facilities",
+  "dir": "logistics-and-facilities"
+ },
+ {
+  "label": "Machine Shop",
+  "dir": "machine-shop"
+ },
+ {
+  "label": "Member Benefits",
+  "dir": "member-benefits"
+ },
+ {
+  "label": "Metal Shop",
+  "dir": "metal-shop"
+ },
+ {
+  "label": "Motorsports",
+  "dir": "motorsports"
+ },
+ {
+  "label": "Officers",
+  "dir": "officers"
+ },
+ {
+  "label": "Onboarding",
+  "dir": "onboarding"
+ },
+ {
+  "label": "Printmaking",
+  "dir": "printmaking"
+ },
+ {
+  "label": "Public Relations",
+  "dir": "public-relations"
+ },
+ {
+  "label": "Rules and Policies",
+  "dir": "rules-and-policies"
+ },
+ {
+  "label": "Science",
+  "dir": "science"
+ },
+ {
+  "label": "Sewing",
+  "dir": "sewing"
+ },
+ {
+  "label": "Tabletop",
+  "dir": "tabletop"
+ },
+ {
+  "label": "Vector",
+  "dir": "vector"
+ },
+ {
+  "label": "Woodshop",
+  "dir": "woodshop"
+ }
+]

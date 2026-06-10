@@ -1,0 +1,35 @@
+---
+title: "Photo SIG Meeting June"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/Photo+SIG+Meeting+June"
+lastUpdated: 2025-08-01
+---
+- Roll Call
+  - Kevin
+  - James
+  - Bryah
+  - Keith
+  - Paul
+- Darkroom
+  - Swap enlargers for Beselers 23 and 45
+    - Ideally sell Omegas on FB or Ebay
+    - Purchase Beselers (23 and 45) from Kevin at cost
+    - Keith Motion, 2nd Bryan: Up to \$600 to purchase Beseler enlargers, with the requirement that the old enlargers and spare darkroom hardware will be put up for sale.
+      - For: 4
+      - Against: 0
+      - Abstain: Kevin
+  - Electrician
+    - Coming thursday, just need to clear the space so they can work
+  - Chemicals
+    - Please submit chem suggestions on discord, XTOL suggested by kevin
+    - Figure out chem locking
+  - Sink
+    - Need to add quick disconnect for printmaking’s power washer
+    - Add waterproof sheets for washout
+- Dons Collab
+  - Cinestill photowalk/how-to event with DMS collaboration
+  - Figure
+- Science Sunday Caffenol
+  - Go at 3pm today!
+- Digital Media
+  - New PCs coming
+  - Scanners now have 35mm holders

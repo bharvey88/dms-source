@@ -1,0 +1,50 @@
+/* DMS Source theme — Dallas Makerspace black & red */
+
+:root {
+	/* accent: DMS red */
+	--sl-color-accent-low: #3b0d0c;
+	--sl-color-accent: #e8463c;
+	--sl-color-accent-high: #f7b3ae;
+	--sl-color-bg-nav: #16181d;
+}
+
+:root[data-theme='light'] {
+	--sl-color-accent-low: #fcd9d6;
+	--sl-color-accent: #c92f26;
+	--sl-color-accent-high: #6b1410;
+}
+
+/* hero polish on the landing page */
+[data-has-hero] .hero h1 {
+	background: linear-gradient(90deg, var(--sl-color-white), var(--sl-color-accent-high));
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+}
+
+[data-has-hero] .hero img {
+	filter: drop-shadow(0 0 2rem rgb(232 70 60 / 25%));
+}
+
+/* tame very wide migrated tables */
+.sl-markdown-content table {
+	display: block;
+	overflow-x: auto;
+	max-width: 100%;
+}
+
+/* migrated images shouldn't overflow */
+.sl-markdown-content img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 0.375rem;
+}
+
+/* archive banner: amber, less alarming than default */
+.sl-banner {
+	background: linear-gradient(90deg, #7a4a09, #9a5f0b);
+	color: #fff7e6;
+}
+.sl-banner a {
+	color: #ffe1a8;
+}

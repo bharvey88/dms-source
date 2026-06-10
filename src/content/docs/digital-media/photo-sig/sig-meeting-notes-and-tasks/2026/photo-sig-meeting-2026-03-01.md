@@ -1,0 +1,55 @@
+---
+title: "Photo SIG Meeting 2026-03-01"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/Photo+SIG+Meeting+2026-03-01"
+lastUpdated: 2026-04-05
+---
+- Attendance
+  - James
+  - Alex
+  - Bill
+  - Jayson
+  - Peter
+  - Jack
+  - Kevin
+  - Keith
+- Old Topics
+  - Classes coming up
+    - Peter - iPhone photography class coming up
+    - James - Darkroom printing class
+  - Bulk Film to purchase, DM request
+    - Rollei Infra 400
+    - Kentmere 200
+  - Bills friend donating print washer
+    - we need to plumb the rest of the sink
+    - Purchase sink filter
+  - Bill, are the DM monitors color calibrated?
+    - Calibration tool ordered?
+  - Create a list for good print houses for photos, larger format
+    - Local prefered
+  - Possible Photo Events
+    - Texas Irish Festival Photo Walk
+      - March 6-8
+      - At Fair Park, we have passes available just asked to give them some photos of the action
+        - 10 people
+        - James to put up class and distribute passes
+    - Flic-film Photowalk** **with Dons
+      - April May ish
+      - Need to check with Don's Photo to see if this is still happening with flic film
+    - Photo Scavenger Hunt TBD
+      - Some time to take pics then a final meet up day
+  - Gallery Lighting
+    - We would like to aim to set up gallery space this winter so it can be used through the year
+    - Endcap gallery
+      - Rotating selection of photos every month, first come first serve, oldest pushed out
+      - Monthly topic rotation
+      - Whole outside dimension of object cannot exceed 11x14
+  - Photo Contest pushed to 2026
+    - April ish
+  - **Darkroom rule**
+    - Add mention to put away dry equipment before you start using the sink
+  - Logo
+    - Formally announce RFP for logo
+    - Describes photo sig as a complete(analog and digital) photography group
+- New Business
+- To Do
+  -

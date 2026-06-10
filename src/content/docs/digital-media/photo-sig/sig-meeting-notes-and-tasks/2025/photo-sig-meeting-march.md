@@ -1,0 +1,40 @@
+---
+title: "Photo SIG Meeting March"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/Photo+SIG+Meeting+March"
+lastUpdated: 2025-08-01
+---
+- Attendance
+  - Kevin
+  - Alex
+  - James
+  - Bruce
+- Darkroom
+  - Sink and paint nearly done
+  - Darkroom chem procedures
+  - Fridgeto store chemicals maybe in orange?
+  - Need Sink washout spouts
+- Make Sign for Dons
+  - Dons still has their paper sign on the door
+  - We could make an LED sign similar to the Mausser sign in Electronics for Dons as a thank you for donating the sink
+  - Would be great to build partnership with Dons
+  - We may already have metal available
+- Scavenger Hunt
+  - Open to non-members
+  - Early summer time frame
+  - 3 weeks to shoot, 1 week to judge, 1 day gallery
+  - Digital submissions only
+  - Judging
+    - Idea1
+      - Must complete scavenger hunt and all photos qualify for the judging in technical categories
+    - Idea2
+      - Judge each item as a category to be judged
+  - Prices
+    - Store credit/gift card local lab
+    - Main price: Enlarged heat press print on canvas, and display gallery in lobby
+    - Agfa
+    - 3 month DMS Membership
+    - Custom leather accessory pouch
+    - More TBD ideally 1 per category
+- Digital media input
+  - PinHole Camera classes as easy start
+  - Provide a Disposable/Point and shoot camera with film

@@ -1,0 +1,56 @@
+---
+title: "Skutt KM-1222"
+description: "Skutt 1022Phase: 1Volt: 208VAmperage: 48A Recommended Breaker: 60AMax Cone: 8Chamber: 28” diameter by 22.5” deep (8.1 cubic feet)NEMA Plug: Weight: 330 lbs"
+sourceUrl: "https://source.dallasmakerspace.org/display/CER/Skutt+KM-1222"
+lastUpdated: 2024-02-05
+---
+<img src="https://cdn.powered-by-nitrosell.com/product_images/9/2167/km-1222-3-240v-1p.jpg" draggable="false" alt="KM-1222-3 240V 1P" />
+
+
+
+
+
+<table>
+<tbody>
+<tr>
+<th>Name</th>
+<td><p>Skutt KM-1222</p></td>
+</tr>
+<tr>
+<th>Date Acquired</th>
+<td><p><br />
+</p></td>
+</tr>
+<tr>
+<th>Training</th>
+<td><p>Training Required</p>
+<p>&lt;Kiln Team Only&gt;</p></td>
+</tr>
+<tr>
+<th>Manufacturer</th>
+<td><p>Skutt</p></td>
+</tr>
+<tr>
+<th>Description</th>
+<td><p><strong>Skutt 1022</strong><br />
+Phase: 1<br />
+Volt: 208V<br />
+Amperage: 48A <br />
+Recommended Breaker: 60A<br />
+Max Cone: 8<br />
+Chamber: 28” diameter by 22.5” deep (8.1 cubic feet)<br />
+NEMA Plug: <br />
+Weight: 330 lbs</p></td>
+</tr>
+</tbody>
+</table>
+
+## **Documentation**
+
+- Instruction Manual
+
+          [Touchscreen-Controller-M…](/dms-source/ceramics/tools/kilns/skutt-km-1222/)
+
+- Kiln Management Guide
+
+          [Kiln-Management-1.pdf](/dms-source/ceramics/tools/kilns/skutt-km-1222/)

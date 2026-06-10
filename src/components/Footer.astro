@@ -1,0 +1,29 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+
+const { entry } = Astro.locals.starlightRoute;
+const sourceUrl = entry.data.sourceUrl;
+const isLegacy = sourceUrl?.includes('dallasmakerspace.org/wiki');
+---
+
+{
+	sourceUrl && (
+		<p class="migration-note">
+			Migrated from the {isLegacy ? 'legacy DMS wiki' : 'DMS Confluence'}:{' '}
+			<a href={sourceUrl}>original page</a>
+		</p>
+	)
+}
+<Default><slot /></Default>
+
+<style>
+	.migration-note {
+		margin: 1.5rem 0 0;
+		padding: 0.5rem 0.875rem;
+		border-inline-start: 3px solid var(--sl-color-accent);
+		background: var(--sl-color-gray-6, var(--sl-color-black));
+		border-radius: 0.25rem;
+		font-size: var(--sl-text-xs);
+		color: var(--sl-color-gray-2);
+	}
+</style>

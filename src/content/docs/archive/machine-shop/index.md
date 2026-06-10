@@ -1,0 +1,47 @@
+---
+title: "Machine Shop (archive)"
+description: "Legacy wiki pages in the Machine Shop category."
+sidebar:
+  hidden: true
+tableOfContents: false
+---
+[← All archive categories](/dms-source/archive/)
+
+- [Carbon Fiber Autoclave](/dms-source/archive/machine-shop/carbon-fiber-autoclave/)
+- [CLAUSING-Colchester 13" Lathe](/dms-source/archive/machine-shop/clausing-colchester-13-lathe/)
+- [ColchesterThreadCutting](/dms-source/archive/machine-shop/colchesterthreadcutting/)
+- [Emco Mill Retrofit](/dms-source/archive/machine-shop/emco-mill-retrofit/)
+- [HAAS Mill](/dms-source/archive/machine-shop/haas-mill/)
+- [HowToMakeATurnersCube](/dms-source/archive/machine-shop/howtomakeaturnerscube/)
+- [Machine Shop Committee Meeting 20170511](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20170511/)
+- [Machine Shop Committee Meeting 20190525](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20190525/)
+- [Machine Shop Committee Meeting 20210227](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210227/)
+- [Machine Shop Committee Meeting 20210327](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210327/)
+- [Machine Shop Committee Meeting 20210424](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210424/)
+- [Machine Shop Committee Meeting 20210522](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210522/)
+- [Machine Shop Committee Meeting 20210724](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210724/)
+- [Machine Shop Committee Meeting 20210828](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210828/)
+- [Machine shop committee meeting 20210925](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20210925/)
+- [Machine Shop committee meeting 20211023](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20211023/)
+- [Machine Shop committee meeting 20211127](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20211127/)
+- [Machine Shop committee meeting 20211218](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20211218/)
+- [Machine Shop Committee Meeting 20220122](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20220122/)
+- [Machine shop committee meeting 20220226](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20220226/)
+- [Machine shop committee meeting 20220326](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20220326/)
+- [Machine Shop Committee Meeting 20220423](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20220423/)
+- [Machine shop committee meeting 20220528](/dms-source/archive/machine-shop/machine-shop-committee-meeting-20220528/)
+- [Machine Shop Committee:Bridgeport:Motor Information](/dms-source/archive/machine-shop/machine-shop-committee-bridgeport-motor-information/)
+- [Machine Shop Equipment Maintenance](/dms-source/archive/machine-shop/machine-shop-equipment-maintenance/)
+- [Machine Shop RFID](/dms-source/archive/machine-shop/machine-shop-rfid/)
+- [Machine Shop RFID:rfid access.pl](/dms-source/archive/machine-shop/machine-shop-rfid-rfid-access-pl/)
+- [Machine Shop RFID:rfid edituser.pl](/dms-source/archive/machine-shop/machine-shop-rfid-rfid-edituser-pl/)
+- [Machine Shop Tasks](/dms-source/archive/machine-shop/machine-shop-tasks/)
+- [Metalworking projects](/dms-source/archive/machine-shop/metalworking-projects/)
+- [Mini mill retrofit](/dms-source/archive/machine-shop/mini-mill-retrofit/)
+- [Partsmaster Torrent](/dms-source/archive/machine-shop/partsmaster-torrent/)
+- [Portable CNC Cart](/dms-source/archive/machine-shop/portable-cnc-cart/)
+- [Powermatic 87 Maintenance](/dms-source/archive/machine-shop/powermatic-87-maintenance/)
+- [Public Domain Books on Machining](/dms-source/archive/machine-shop/public-domain-books-on-machining/)
+- [Shapeoko 3XXL](/dms-source/archive/machine-shop/shapeoko-3xxl/)
+- [Tormach-8L Lathe](/dms-source/archive/machine-shop/tormach-8l-lathe/)
+- [User Projects](/dms-source/archive/machine-shop/user-projects/)

@@ -1,0 +1,88 @@
+---
+title: "Legacy Wiki Archive"
+description: "Pages preserved from the original Dallas Makerspace MediaWiki, organized by category."
+tableOfContents: false
+---
+Everything below was migrated from the [legacy Dallas Makerspace wiki](https://dallasmakerspace.org/wiki/Main_Page) and is preserved for reference. Some content is historical and may be outdated.
+
+- [3D Fabrication](/dms-source/archive/3d-fabrication/) — 23 pages
+- [Active Projects](/dms-source/archive/active-projects/) — 12 pages
+- [Aerospace](/dms-source/archive/aerospace/) — 11 pages
+- [Amateur Radio](/dms-source/archive/amateur-radio/) — 14 pages
+- [Annual Events](/dms-source/archive/annual-events/) — 1 page
+- [Archive](/dms-source/archive/archive/) — 35 pages
+- [Atomic Energy](/dms-source/archive/atomic-energy/) — 3 pages
+- [Automotive](/dms-source/archive/automotive/) — 2 pages
+- [AV Studio](/dms-source/archive/av-studio/) — 7 pages
+- [Big Move 2014](/dms-source/archive/big-move-2014/) — 3 pages
+- [Blacksmithing](/dms-source/archive/blacksmithing/) — 2 pages
+- [Ceramics](/dms-source/archive/ceramics/) — 19 pages
+- [Civic Hacking](/dms-source/archive/civic-hacking/) — 1 page
+- [Class curriculum](/dms-source/archive/class-curriculum/) — 8 pages
+- [Classes](/dms-source/archive/classes/) — 1 page
+- [Classroom](/dms-source/archive/classroom/) — 2 pages
+- [Cleanup](/dms-source/archive/cleanup/) — 3 pages
+- [Codetalk](/dms-source/archive/codetalk/) — 1 page
+- [Committees](/dms-source/archive/committees/) — 4 pages
+- [Community Grid](/dms-source/archive/community-grid/) — 4 pages
+- [Completed Events](/dms-source/archive/completed-events/) — 14 pages
+- [Completed Projects](/dms-source/archive/completed-projects/) — 11 pages
+- [Computers](/dms-source/archive/computers/) — 1 page
+- [Creative Arts](/dms-source/archive/creative-arts/) — 17 pages
+- [Crypto SIG](/dms-source/archive/crypto-sig/) — 1 page
+- [Dallas Makerspace](/dms-source/archive/dallas-makerspace/) — 366 pages
+- [Delete](/dms-source/archive/delete/) — 26 pages
+- [Design](/dms-source/archive/design/) — 1 page
+- [Digital Media](/dms-source/archive/digital-media/) — 1 page
+- [DMS Official](/dms-source/archive/dms-official/) — 3 pages
+- [Draft](/dms-source/archive/draft/) — 3 pages
+- [Edibles](/dms-source/archive/edibles/) — 1 page
+- [Electronics](/dms-source/archive/electronics/) — 54 pages
+- [Financial](/dms-source/archive/financial/) — 3 pages
+- [Food For Thought](/dms-source/archive/food-for-thought/) — 1 page
+- [Fusion 360](/dms-source/archive/fusion-360/) — 1 page
+- [Gaming](/dms-source/archive/gaming/) — 1 page
+- [GlassWorks](/dms-source/archive/glassworks/) — 26 pages
+- [Hackerspace Committee](/dms-source/archive/hackerspace-committee/) — 50 pages
+- [Hacking](/dms-source/archive/hacking/) — 1 page
+- [Historical](/dms-source/archive/historical/) — 13 pages
+- [How To](/dms-source/archive/how-to/) — 1 page
+- [Inactive Committees](/dms-source/archive/inactive-committees/) — 7 pages
+- [Inactive Projects](/dms-source/archive/inactive-projects/) — 9 pages
+- [Infrastructure](/dms-source/archive/infrastructure/) — 12 pages
+- [Interest Groups](/dms-source/archive/interest-groups/) — 9 pages
+- [Jewelry](/dms-source/archive/jewelry/) — 1 page
+- [Jewelry/Small Metals Committee](/dms-source/archive/jewelry-small-metals-committee/) — 5 pages
+- [Laser](/dms-source/archive/laser/) — 7 pages
+- [Logistics](/dms-source/archive/logistics/) — 8 pages
+- [Logistics Committee](/dms-source/archive/logistics-committee/) — 2 pages
+- [Machine Shop](/dms-source/archive/machine-shop/) — 38 pages
+- [Makers](/dms-source/archive/makers/) — 2 pages
+- [Makery Stores](/dms-source/archive/makery-stores/) — 6 pages
+- [Manuals](/dms-source/archive/manuals/) — 2 pages
+- [Meetings](/dms-source/archive/meetings/) — 474 pages
+- [Metal Shop](/dms-source/archive/metal-shop/) — 4 pages
+- [Outdated](/dms-source/archive/outdated/) — 42 pages
+- [Pages with broken file links](/dms-source/archive/pages-with-broken-file-links/) — 2 pages
+- [Pages with ignored display titles](/dms-source/archive/pages-with-ignored-display-titles/) — 3 pages
+- [Parts Files](/dms-source/archive/parts-files/) — 1 page
+- [Photography](/dms-source/archive/photography/) — 6 pages
+- [Plastics](/dms-source/archive/plastics/) — 2 pages
+- [Printmaking](/dms-source/archive/printmaking/) — 27 pages
+- [Projects](/dms-source/archive/projects/) — 46 pages
+- [Proposed Committee](/dms-source/archive/proposed-committee/) — 1 page
+- [Public Relations](/dms-source/archive/public-relations/) — 11 pages
+- [Remote Control](/dms-source/archive/remote-control/) — 2 pages
+- [Science](/dms-source/archive/science/) — 42 pages
+- [Secretary](/dms-source/archive/secretary/) — 2 pages
+- [SIG](/dms-source/archive/sig/) — 2 pages
+- [Suppliers](/dms-source/archive/suppliers/) — 3 pages
+- [Systems and infrastructure](/dms-source/archive/systems-and-infrastructure/) — 6 pages
+- [Tabletop Gaming](/dms-source/archive/tabletop-gaming/) — 1 page
+- [Templates](/dms-source/archive/templates/) — 4 pages
+- [Tools](/dms-source/archive/tools/) — 10 pages
+- [Uncategorized](/dms-source/archive/uncategorized/) — 85 pages
+- [VCC](/dms-source/archive/vcc/) — 5 pages
+- [VECTOR](/dms-source/archive/vector/) — 7 pages
+- [VoIPServer](/dms-source/archive/voipserver/) — 1 page
+- [Wood Shop](/dms-source/archive/wood-shop/) — 26 pages

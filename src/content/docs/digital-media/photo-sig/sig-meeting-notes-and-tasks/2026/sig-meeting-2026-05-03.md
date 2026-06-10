@@ -1,0 +1,59 @@
+---
+title: "SIG Meeting 2026-05-03"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/SIG+Meeting+2026-05-03"
+lastUpdated: 2026-05-04
+---
+- Attendance
+  - Alex
+  - Bill
+  - Jayson
+  - Peter
+  - Keith
+- Old Topics
+  - Classes coming up
+    - Peter - iPhone photography part 2
+    - Jayson - Cyanotype printing
+    - Alex - Darkroom printing
+  - Bulk Film
+    - Rollei Infra 400 - 25%
+    - Kentmere 200 - 100%
+      - restocked in April
+  - Darkroom Print washer
+    - We need to add supports to better handle washer's load
+    - Purchase sink filter
+  - Digital Media Monitor Calibration
+    - Kevins Spyder calibration tool at the space, Jayson installed spyer software, just need time to run calibrations
+  - Create a list for good print houses for photos, larger format
+    - Local preferred
+    - No update
+  - Possible Photo Events
+    - Flic-film Photowalk** **with Dons
+      - May 1st-2nd
+        - Very successful, suggested more events like this in other locations too
+    - Photo Scavenger Hunt & Contest TBD
+      - Some time to take pics then a final meet up day
+      - Specific time frame and topic with prizes
+  - Gallery Lighting\
+    - Endcap gallery
+      - Rules for shows set and published.
+      - First show pictures chosen
+      - June Theme - Colors of the Rainbow
+      - July Theme - Feeling of Summer
+  - **Darkroom**
+    - Thermal camera installed and connected, IT needs to enable it
+  - Logo
+    - Formally announce RFP for logo
+    - Describes photo sig as a complete(analog and digital) photography group
+    - No update
+  - Display wall for cameras
+    - Peter wanted to build a display wall, that shows woodworking and electronics skills, to use to display cameras
+    - No update
+  - May 9th DMS has a table at the Dallas Zoo
+    - Volunteers welcome to propose photo related activity to promote at event
+- New Business
+  - Large Format Printer
+    - PC to be added next to printer, and sign-off classes coming soon
+  - Purchase request for a yankee sheet film tank
+    - <https://bluemooncamera.com/shop/product/043953036450/yankee-4x5-film-developing-tank>
+- To Do
+  -

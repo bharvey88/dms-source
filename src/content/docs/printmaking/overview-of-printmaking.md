@@ -1,0 +1,11 @@
+---
+title: "Overview of Printmaking"
+description: "Printmaking is the process of making artworks by printing, normally on paper. Printmaking covers only the process of creating prints that have an element o..."
+sourceUrl: "https://source.dallasmakerspace.org/display/PRINT/Overview+of+Printmaking"
+lastUpdated: 2022-10-02
+---
+Printmaking is the process of making artworks by printing, normally on paper. Printmaking covers only the process of creating prints that have an element of originality, rather than just being a photographic reproduction of a painting. Except in the case of monotyping, the process is capable of producing multiples of the same piece, which is called a print. Each print produced is not considered a "copy" but rather is considered an "original". This is because typically each print varies to an extent due to variables intrinsic to the printmaking process, and also because the imagery of a print is typically not simply a reproduction of another work but rather is often a unique image designed from the start to be expressed in a particular printmaking technique.
+
+A print may be known as an impression. Printmaking (other than monotyping) is not chosen only for its ability to produce multiple impressions, but rather for the unique qualities that each of the printmaking processes lends itself to. Prints are created by transferring ink from a matrix or through a prepared screen to a sheet of paper or other material. Common types of matrices include: metal plates, usually copper or zinc, or polymer plates for engraving or etching; stone, aluminum, or polymer for lithography; blocks of wood for woodcuts and wood engravings; and linoleum for linocuts.
+
+Screens made of silk or synthetic fabrics are used for the screenprinting process. Other types of matrix substrates and related processes are discussed below. Multiple impressions printed from the same matrix form an edition. Since the late 19th century, artists have generally signed individual impressions from an edition and often number the impressions to form a limited edition; the matrix is then destroyed so that no more prints can be produced. Prints may also be printed in book form, such as illustrated books or artist's books.

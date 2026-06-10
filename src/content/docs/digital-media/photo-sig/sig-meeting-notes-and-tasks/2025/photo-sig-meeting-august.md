@@ -1,0 +1,31 @@
+---
+title: "Photo SIG Meeting August"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/Photo+SIG+Meeting+August"
+lastUpdated: 2025-08-03
+---
+- Attendance
+  - Peter
+  - Alex
+  - Kevin
+  - Justin
+  - Keith
+  - Max
+  - John
+  - James (Remote)
+- Topics
+  - Possible repair options for folding cameras out of focus
+    - lens distance or lens tilt
+    - use velum on film plane with hood to turn into view camera to verify focus
+  - Camera Testing Class, is it working?
+    - Shutter speed timer
+    - Light leaks
+    - Focus
+    - Lens operation
+    - Light meter
+  - Photo Gallery post fair
+    -  Post Fair, have a galleries of DMS Entries
+  - Darkroom open for Members!
+  - Volunteers for darkroom promotion with Don's photo
+  - Any photo questions or discussions
+- Old Business
+  - Moving forward Old business will be tracked here

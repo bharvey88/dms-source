@@ -1,0 +1,22 @@
+---
+title: "Public Relations meeting 20190700"
+description: "Members in attendance : Andrew Barroso Judy krien Kris Anderson Johnny Bluejacket Julie Harris James Henningson Michelle? Carienn Day + 2 additional, (Need..."
+sourceUrl: "https://dallasmakerspace.org/wiki/Public_Relations_meeting_20190700"
+sidebar:
+  hidden: true
+banner:
+  content: "Archived from the <a href=\"https://dallasmakerspace.org/wiki/Public_Relations_meeting_20190700\">legacy DMS wiki</a> — content may be outdated."
+---
+Members in attendance : Andrew Barroso Judy krien Kris Anderson Johnny Bluejacket Julie Harris James Henningson Michelle? Carienn Day + 2 additional, (Need to get names from Andrew)
+
+Andrew - Emerging tech meeting to define pillars of DMS for outreach to the community - Start with small outreach and work towards balancing it.
+
+PR Member introductions
+
+Define opportunities to promote STEAM and bring kids in - possibly off-site events.
+
+Member drive - about 300 new people will give us more cash to stabilize - Is member retention really something for an HR group? For now looking for a head of this directive. - Michelle for social outreach - discuss the YouTube campaign and Facebook/Instagram - Proposal, each person pick a committee to shoot social posts for.
+
+Andrew, posting on Meetup to bring people in. Has data analysis for meetup. Request data from Erik. We will get him a Coupon Code. - Eric - Meetup proposal, get 4 teachers to work as a team to give meetup specific members. Basically a recruitment class that teachers get paid for. This would need to go to the board since it involves honorariums - He has math to justify this. - Judy - feather flag for expo kit and for tour nights - Judy - Main interest is in creating marketing assets for us - Carienn - Member retention is her main concern. Keep people beyond their first project. -Carienn - What is the action on the previously approved fund raising items - James - Will send the previously approved items to Andrew for review and execution - Make the new member guide a wordpress site and send it to members that sign up. - Johnny - working on SEO for Ceramics and Jewelry, Add the individual committees to google maps for when people search for specifics. -Johnny - doing make and take projects on tour nights - Johnny - Apartment discount codes for local high end apartments - Judy - need artwork on our walls - James - Get the new lobby set up - Logistics needs to get the junk out of the new lobby asap - Kris - red frames bought for the common room 24x36 PR can use them. - Dallas public library display set up by Kris - - Frets park library - Create hand outs. - possibly pay someone? - Kris - suggestion to hire a temp employee to clean up the wiki and other marketing content. - Andrew - July 20th - two events, need help. Families Expo - activity based - south fork ranch. Also July 20th Moon Days - at frontiers of flight - VR and science can help - Michelle - secretary to track donations (who and what) to PR and who is showing up. - Andrew - Musashi robot sig - can we film this for social. How far along is he? - Andrew - 26th 5PM in Lewisville, Diamonds in the rough - Stem camp 30 kids, teaching stem, probably VR - Andrew - Vshall another camp for outreach - possibly ceramics through Wise Academy - Andrew - wants time for a measuring the success. - James - PR needs to define the script for tours - Andrew - will work at this, we need more tour guides - Carienne - Funky Finds show in November - Costs money - Andrew - Adnan needs to build up the classes, because it creates content for us. - Johnny - What about a makers ball - model after the toys for tots. Cosplay casino - suit and tie event - Carienne - Crosstimbers gallery tour show is coming up - Andrew - VR meetup July 16th at capital factory need volunteers - James - get list of coworking spaces from Andrew for coupon codes - Andrew - Communication triage - post ideas to the forum - Kris - can we spend money to get a professional ad campaign - Andrew - need to get more PR and Committee business cards - Carienn - need committee fliers for tour nights - We need better printing - Andrew - someone floated a premium membership idea -Carienn - make a class about how to use social media to benefit DMS - Carienn - AKS gem show - free table - if we promote him 3 day show
+
+Votes - Eric Brunner volunteers for treasurer passed unanimous - vote \$300 allocated for meetup.com initiative passed unanimous [Public Relations](/dms-source/archive/public-relations/)

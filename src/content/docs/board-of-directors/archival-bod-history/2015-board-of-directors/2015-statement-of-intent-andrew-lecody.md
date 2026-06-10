@@ -1,0 +1,23 @@
+---
+title: "2015 Statement of Intent Andrew LeCody"
+description: "This letter is to serve as formal notification that I, Andrew LeCody, am officially submitting my name to run for election to the Board of Directors for th..."
+sourceUrl: "https://source.dallasmakerspace.org/display/Board/2015+Statement+of+Intent+Andrew+LeCody"
+lastUpdated: 2022-11-08
+---
+This letter is to serve as formal notification that I, Andrew LeCody, am officially submitting my name to run for election to the Board of Directors for the Dallas Makerspace for the year 2015.
+
+My goals for 2015 are:
+
+1.  Help preserve the friendly and inviting feeling of our community.
+2.  Improve access to tools by implementing authorization and accountability systems.
+3.  Encourage greater member participation in Monthly Membership Meetings.
+4.  Sponsor and schedule more [hackathons](http://en.wikipedia.org/wiki/Hackathon).
+
+As part of this Letter of Intent, I also agree to the duties and functions expected of me in this position that include, but are not limited to:
+
+1.  Making every effort to attend the annual meeting(s) and regular meetings.
+2.  Perform the duties and responsibilities of Director as outlined in the Dallas Makerspace Bylaws as well as the Dallas Makerspace Rules and Policies.
+
+If elected, I am fully aware and understand the importance of my full participation as a productive and effective leader during my tenure on the Dallas Makerspace Board of Directors, and I agree to the terms and conditions set forth above.
+
+Nominated by: Bryan Martin

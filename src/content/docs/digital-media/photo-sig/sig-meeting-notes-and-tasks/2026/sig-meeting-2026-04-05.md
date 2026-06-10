@@ -1,0 +1,64 @@
+---
+title: "SIG Meeting 2026-04-05"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/SIG+Meeting+2026-04-05"
+lastUpdated: 2026-04-05
+---
+- Attendance
+  - Alex
+  - James
+  - Bill
+  - Jayson
+  - Peter
+  - Keith
+  - Kevin
+- Old Topics
+  - Classes coming up
+    - Peter - iPhone photography class coming up
+    - Kevin - Darkroom sign-off, Film basics
+  - Bulk Film
+    - Rollei Infra 400 - 75%
+    - Kentmere 200 - 50%
+  - Bills friend donating print washer
+    - we need to plumb the rest of the sink
+    - Purchase sink filter
+  - Bill, are the DM monitors color calibrated?
+    - Calibration tool ordered?
+  - Create a list for good print houses for photos, larger format
+    - Local preferred
+  - Possible Photo Events
+    - Flic-film Photowalk** **with Dons
+      - May 1st
+        - Demos at DMS from Flic Film
+        - 6pm On calendar
+      - May 2nd
+        - 12-3pm Demos @ Don's Photo
+        - 4-7pm Photo meet-up with Flic Film founder @  Three nations beer garden
+    - Photo Scavenger Hunt & Contest TBD
+      - Some time to take pics then a final meet up day
+      - Specific time frame and topic with prizes
+  - Gallery Lighting
+    - We would like to aim to set up gallery space this winter so it can be used through the year
+    - Endcap gallery
+      - Rotating selection of photos every month, first come first serve, oldest pushed out
+      - Monthly topic rotation
+      - Whole outside dimension of object cannot exceed 11x14
+      - Bought Lights, and hanging hardware
+      - Open theme photo Sig only MAY
+      - June colors of the rainbow
+      - July Feeling of summer
+      - Next topics TBD
+  - **Darkroom**
+    - Rule to add mention to put away dry equipment added to source
+    - Cables for camera and display boards added
+  - Logo
+    - Formally announce RFP for logo
+    - Describes photo sig as a complete(analog and digital) photography group
+- New Business
+  - Display wall for cameras
+    - Peter wanted to build a display wall, that shows woodworking and electronics skills, to use to display cameras
+    - Possible the lobby wall by the restrooms? or elsewhere
+  - May 9th DMS has a table at the Dallas Zoo
+    - Volunteers welcome to propose photo related activity to promote at event
+- To Do
+  -  Find a safe storage space for bulk film
+  - Purchase Sink filter

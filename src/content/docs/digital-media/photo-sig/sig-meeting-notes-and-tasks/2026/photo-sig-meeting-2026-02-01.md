@@ -1,0 +1,48 @@
+---
+title: "Photo SIG Meeting 2026-02-01"
+sourceUrl: "https://source.dallasmakerspace.org/display/DM/Photo+SIG+Meeting+2026-02-01"
+lastUpdated: 2026-04-05
+---
+- Attendance
+  - Keith
+  - Alex
+  - Bruce
+  - Bill
+  - Kevin
+  - James
+  - Jayson
+  - Shawn
+  - Chelsy
+  - Tish
+- \New Topics
+  - Downtown Carrollton Photowalk + Develop Roll at DMS (weekend 2/7)
+  - Flic-film Photowalk April-may ish with Dons
+  - Bulk Film to purchase, DM request
+    - Rollei Infra 400
+    - Kentmere 200
+  - Bills friend donating print washer
+    - we need to plumb the rest of the sink
+    - Purchase sink filter
+- Old Business
+  - Bill, are the DM monitors color calibrated?
+    - Calibration tool ordered?
+  - Create a list for good print houses for photos, larger format
+    - Local prefered
+  - Possible Photo Events
+    - Photo Scavenger Hunt
+      - Some time to take pics then a final meet up day
+    - Texas Irish Festival Photo Walk
+      - March 6-8
+      - At Fair Park, we can likely check for any security/special requirements for photo gear
+        - 5 people
+  - Gallery Lighting
+    - We would like to aim to set up gallery space this winter so it can be used through the year
+  - Photo Contest pushed to 2026
+    - April ish
+- To Do
+  -
+  - Ask DM committee to Calibrate Monitors
+  - Ask DM to order dark bags from Freestyle
+  - ASK DM Committee for requirements/needs to setup gallery walls
+  - Gather a list of places to get photo prints made and create list on source
+  - Ask IT to Create Moodle prereq course then we can fill in with info for signoff class
