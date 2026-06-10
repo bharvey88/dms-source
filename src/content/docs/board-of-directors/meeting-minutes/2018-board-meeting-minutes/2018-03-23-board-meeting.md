@@ -16,7 +16,7 @@ lastUpdated: 2022-11-09
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180223#Minutes>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180223#Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180223/#Minutes)
 
 ## Financial Statement
 
@@ -82,7 +82,7 @@ with
 
 1\. For all honorarium classes 3 attendees are required to receive honorarium.
 
-as voted at the board meeting, 15 Dec 2017: <https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20171215>
+as voted at the board meeting, 15 Dec 2017: [https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20171215](/dms-source/archive/meetings/board-of-directors-meeting-20171215/)
 
 **Relevance**: Having rules posted consistent with actual policy is essential for proper governance.
 

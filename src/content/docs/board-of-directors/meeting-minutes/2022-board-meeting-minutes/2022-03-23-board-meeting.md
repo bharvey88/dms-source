@@ -327,7 +327,7 @@ If deemed appropriate, the team may choose to identify the offender by name in t
 
 ## **Current Code of Conduct:**
 
-<https://dallasmakerspace.org/wiki/Rules_and_Policies#Code_of_Conduct>
+[https://dallasmakerspace.org/wiki/Rules_and_Policies#Code_of_Conduct](/dms-source/archive/dallas-makerspace/rules-and-policies/#Code_of_Conduct)
 
 Include the wording of the current code of conduct.
 
@@ -344,7 +344,7 @@ Add an option to vote for or against the proposed changes to the code of conduct
 ## Classes & Events
 
 1.  Classes/events must be on the official calendar to be considered scheduled. Adding classes/events to the calendar can be done from our calendar management system.
-2.  Scheduled classes/events should uphold our [Mission Statement](https://dallasmakerspace.org/wiki/Mission_Statement)
+2.  Scheduled classes/events should uphold our [Mission Statement](/dms-source/archive/dallas-makerspace/mission-statement/)
 3.  Scheduled classes/events take priority over unscheduled classes/events.
 4.  Scheduling conflicts should be worked out peaceably by the affected parties. Disputes will be arbitrated by committee chairs and appealed to the board.
 5.  All classes/events must be sponsored by a current member, who must be present during the class/event.
@@ -372,7 +372,7 @@ Add an option to vote for or against the proposed changes to the code of conduct
 
 ## **Current Rules for Classes & Events:**
 
-<https://dallasmakerspace.org/wiki/Rules_and_Policies#Classes_.26_Events>
+[https://dallasmakerspace.org/wiki/Rules_and_Policies#Classes\_.26_Events](/dms-source/archive/dallas-makerspace/rules-and-policies/#Classes_.26_Events)
 
 ## Emergency Business
 

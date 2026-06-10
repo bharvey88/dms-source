@@ -17,7 +17,7 @@ Nominated by: Benjamin Groves
 
 ------------------------------------------------------------------------
 
-2013 was a fantastic year for our Space. See -\> [2013 Recap of Dallas MakerSpace](https://dallasmakerspace.org/wiki/DMS_2013_Recap)
+2013 was a fantastic year for our Space. See -\> [2013 Recap of Dallas MakerSpace](/dms-source/archive/dallas-makerspace/dms-2013-recap/)
 
 One of the most startling successes is our growth. From ~100 members in January 2013 to over 320 members as of Feb 2014. One of the reasons for that growth is the fantastic community we have of Makers (People who generously donate their time, expertise, tools, & \$, and are pretty cool), and the culture developed in the early days of the Space.
 

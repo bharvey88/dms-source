@@ -16,7 +16,7 @@ lastUpdated: 2022-11-09
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180126#Minutes>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180126#Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180126/#Minutes)
 
 ## Financial Statement
 
@@ -45,7 +45,7 @@ lastUpdated: 2022-11-09
     ----
     $66,745 Total (Per our rules our max spending available is: $17,487.25)
 
-- The board of directors may not allocate more than 5% of the checking account balance on discretionary spending without a current financial status from the financial committee or treasurer. See: <https://dallasmakerspace.org/wiki/Rules_and_Policies#Finances>
+- The board of directors may not allocate more than 5% of the checking account balance on discretionary spending without a current financial status from the financial committee or treasurer. See: [https://dallasmakerspace.org/wiki/Rules_and_Policies#Finances](/dms-source/archive/dallas-makerspace/rules-and-policies/#Finances)
 - The Treasure's opinion is that we should include Committee Allocations in the calculation of available cash. i.e. (\$349,745.49 - \$208,034.92) \* 5% = \$7,085.53 max spending. Seems hyper conservative but not really valid until we get committee balances accurate.
 
 **Profit & Loss Statement:**

@@ -16,7 +16,7 @@ Video was not available for this meeting.
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180223#Minutes>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180223#Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180223/#Minutes)
 
 ## Financial Statement
 

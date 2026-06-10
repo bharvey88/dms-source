@@ -4,7 +4,7 @@ description: "Migrated from Wiki: https://dallasmakerspace.org/wiki/Woodshop_cla
 sourceUrl: "https://source.dallasmakerspace.org/pages/viewpage.action?pageId=26416485"
 lastUpdated: 2024-01-07
 ---
-Migrated from Wiki: <https://dallasmakerspace.org/wiki/Woodshop_classes>
+Migrated from Wiki: [https://dallasmakerspace.org/wiki/Woodshop_classes](/dms-source/archive/dallas-makerspace/woodshop-classes/)
 
 
 

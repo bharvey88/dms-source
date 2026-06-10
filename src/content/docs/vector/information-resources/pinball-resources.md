@@ -10,7 +10,7 @@ lastUpdated: 2025-02-05
 Photos from Texas Pinball Festival 2017 - <https://arianaby.smugmug.com/Professional/Texas-Pinball-Festival-VECTOR-2017/>\
 Photos from Texas Pinball Festival 2016 - <https://arianaby.smugmug.com/Professional/Texas-Pinball-Festival-VECTOR/>\
 Makerspace Talk forum thread w/photos - <https://talk.dallasmakerspace.org/t/the-official-dms-pinball-selfies-thread/6167/>\
-An early photo gallery from our previous location (Ladybird Ln) - <https://dallasmakerspace.org/wiki/Pinball>
+An early photo gallery from our previous location (Ladybird Ln) - [https://dallasmakerspace.org/wiki/Pinball](/dms-source/archive/projects/pinball/)
 
 ## Arcade and pinball related links
 

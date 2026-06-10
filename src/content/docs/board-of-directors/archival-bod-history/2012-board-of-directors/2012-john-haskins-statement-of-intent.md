@@ -9,7 +9,7 @@ This letter is to serve as formal notification that I, John Haskins, am official
 As part of this Letter of Intent, I also agree to the duties and functions expected of me in this position that include, but are not limited to:
 
 1.  Making every effort to attend the annual meeting(s) and regular meetings.
-2.  Perform the duties and responsibilities of Director as outlined in the [Dallas Makerspace Bylaws](https://dallasmakerspace.org/wiki/Bylaws) as well as the [Dallas Makerspace Rules and Policies](https://dallasmakerspace.org/wiki/Rules_and_Policies).
+2.  Perform the duties and responsibilities of Director as outlined in the [Dallas Makerspace Bylaws](/dms-source/archive/dallas-makerspace/bylaws/) as well as the [Dallas Makerspace Rules and Policies](/dms-source/archive/dallas-makerspace/rules-and-policies/).
 
 If elected, I am fully aware and understand the importance of my full participation as a productive and effective leader during my tenure on the Dallas Makerspace Board of Directors, and I agree to the terms and conditions set forth above.
 

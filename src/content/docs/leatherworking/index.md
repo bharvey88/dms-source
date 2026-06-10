@@ -137,14 +137,14 @@ The table below links to leather project pages. Each page lists the materials an
 |  |  |  |  |
 |----|----|----|----|
 | Leather Project | Difficulty | Completion Time | Notes |
-| [Clam Shell Zipper Pouch](https://dallasmakerspace.org/wiki/Clam_Shell_Zipper_Pouch) | Beginner | 90 minutes | \- |
-| [Coin Pouch](https://dallasmakerspace.org/wiki/Coin_Pouch) | Beginner | 30-60 minutes | \- |
+| [Clam Shell Zipper Pouch](/dms-source/archive/projects/clam-shell-zipper-pouch/) | Beginner | 90 minutes | \- |
+| [Coin Pouch](/dms-source/archive/projects/coin-pouch/) | Beginner | 30-60 minutes | \- |
 | [Dopp Kit](https://imgur.com/a/1tg4Q) | Intermediate | 90-120 minutes | External Link to tutorial |
-| [Field Notes Cover](https://dallasmakerspace.org/wiki/Field_Notes_Cover) | Beginner | 120 minutes | \- |
-| [Traditional 4 Slot Wallet](https://dallasmakerspace.org/wiki/Traditional_4_Slot_Wallet) | Beginner | 60-90 minutes | \- |
-| [Midori Style Notebook](https://dallasmakerspace.org/wiki/Midori_Style_Notebook) | Beginner | 60-90 minutes | \- |
-| [No Sew Medieval Belt Pouch](https://dallasmakerspace.org/wiki/No_Sew_Medieval_Belt_Pouch) | Beginner | 60-90 minutes | \- |
-| [Leather Pen Sleeve](https://dallasmakerspace.org/wiki/Leather_Pen_Sleeve) | Beginner | 60-90 minutes | Either Veg-Tan or Chrome leather |
+| [Field Notes Cover](/dms-source/archive/projects/field-notes-cover/) | Beginner | 120 minutes | \- |
+| [Traditional 4 Slot Wallet](/dms-source/archive/projects/traditional-4-slot-wallet/) | Beginner | 60-90 minutes | \- |
+| [Midori Style Notebook](/dms-source/archive/projects/midori-style-notebook/) | Beginner | 60-90 minutes | \- |
+| [No Sew Medieval Belt Pouch](/dms-source/archive/projects/no-sew-medieval-belt-pouch/) | Beginner | 60-90 minutes | \- |
+| [Leather Pen Sleeve](/dms-source/archive/projects/leather-pen-sleeve/) | Beginner | 60-90 minutes | Either Veg-Tan or Chrome leather |
 
 Beginner: Requires no previous leather-working experience.
 

@@ -28,7 +28,7 @@ lastUpdated: 2022-05-05
 
 ## Prior Minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20210915>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20210915](/dms-source/archive/meetings/board-of-directors-meeting-20210915/)
 
 MOTION: Approve Prior Minutes
 

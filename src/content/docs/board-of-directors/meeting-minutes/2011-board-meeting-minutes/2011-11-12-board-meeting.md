@@ -15,13 +15,13 @@ lastUpdated: 2023-06-29
 ## Officer/Committee reports
 
 - [Public Relations Committee](https://dallasmakerspace.org/wiki/Public_Relations_Committee) - Nicole Greeley will report on the status of the PR Committee's programs.
-- [Security Committee](https://dallasmakerspace.org/wiki/Security_Committee) - Andrew LeCody will report on the status of the security system and network infrastructure.
+- [Security Committee](/dms-source/archive/inactive-committees/security-committee/) - Andrew LeCody will report on the status of the security system and network infrastructure.
 
 ## Agenda
 
 - Problem: A number of people have requested we create a "family plan" for membership.
 - Why: To allow families to have multiple RFID tags without requiring \$50/mo for each person.
-  - Solution 1: Offer "add-on" memberships for \$10/mo (for members paying \$50/mo), the "add-on" members are granted an RFID tag, website account and access to the mailing list. These would be limited to immediate family of the primary member (spouse, parents, siblings, and children). To limit voting rights to the primary member only, we will add the following wording to the [standing rules](https://dallasmakerspace.org/wiki/Rules_and_Policies#Voting_Rights):
+  - Solution 1: Offer "add-on" memberships for \$10/mo (for members paying \$50/mo), the "add-on" members are granted an RFID tag, website account and access to the mailing list. These would be limited to immediate family of the primary member (spouse, parents, siblings, and children). To limit voting rights to the primary member only, we will add the following wording to the [standing rules](/dms-source/archive/dallas-makerspace/rules-and-policies/#Voting_Rights):
 
 > 3\. Supporting members who are secondary or "add-on" members as part of a joint-membership are ineligible for Regular Membership.
 

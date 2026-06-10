@@ -15,17 +15,15 @@ lastUpdated: 2025-10-14
 | Discord Link (Official / Run by DMS) | <https://discord.gg/dallasmakerspace> |
 | Documentation/Information, aka Source | <https://source.dallasmakerspace.org/> |
 | Dallas Makerspace Facility Map | [(1825 Monetary Ln. \#104)](https://dallasmakerspace.org/wiki/File:DMS_Floor_Plan.jpg) |
-| Payment links for consumables (I forgot to pay!) | [Paypal](https://dallasmakerspace.org/wiki/Fund_QR_Codes) |
+| Payment links for consumables (I forgot to pay!) | [Paypal](/dms-source/archive/dallas-makerspace/fund-qr-codes/) |
 | Online Learning (aka Learn) | <https://learn.dallasmakerspace.org> |
 | Member Portal (Check Groups, Link to Talk Profile) | [DMS Member Portal](https://members.dallasmakerspace.org) |
-
-\[ [Important Contacts](#NewMemberInformation/411-ImportantContacts) \] \[ [What is a "dallasmakerspace.org" account and when would I use it?](#NewMemberInformation/411-Whatisa%22dallasmakerspace.org%22accountandwhenwouldIuseit?) \] \[ [Dallas Makerspace Ethos](#NewMemberInformation/411-DallasMakerspaceEthos) \] \[ [Learn](#NewMemberInformation/411-Learn) \] \[ [Share](#NewMemberInformation/411-Share) \] \[ [Contribute](#NewMemberInformation/411-Contribute) \] \[ [Voting](#NewMemberInformation/411-Voting) \] \[ [Safety](#NewMemberInformation/411-Safety) \] \[ [Storage](#NewMemberInformation/411-Storage) \] \[ [Parking](#NewMemberInformation/411-Parking) \] \[ [Donations](#NewMemberInformation/411-Donations) \] \[ [New Member Signup](#NewMemberInformation/411-NewMemberSignup) \] \[ [Recent space activity](#NewMemberInformation/411-Recentspaceactivity) \] \[ [Space contributors](#NewMemberInformation/411-Spacecontributors) \]
 
 ## What is a "[dallasmakerspace.org](http://dallasmakerspace.org)" account and when would I use it?
 
 The "[dallasmakerspace.org](http://dallasmakerspace.org)" account is your gateway to the paradise of electronic interaction with Dallas Makerspace and all the wonders thereof.
 
-Check [this](https://dallasmakerspace.org/wiki/How_to_Enable_Your_Active_Directory_Login) page for information on the "[dallasmakerspace.org](http://dallasmakerspace.org)" account, its creation, and troubleshooting.
+Check [this](/dms-source/archive/systems-and-infrastructure/how-to-enable-your-active-directory-login/) page for information on the "[dallasmakerspace.org](http://dallasmakerspace.org)" account, its creation, and troubleshooting.
 
 The "[dallasmakerspace.org](http://dallasmakerspace.org)" account may be used for any of the following (and more!):
 
@@ -56,8 +54,8 @@ The "[dallasmakerspace.org](http://dallasmakerspace.org)" account may be used fo
     - The calendar system does not support a waiting list.
   - To review previous months' class offerings, time requirements, and (previous) class costs, choose "Calendar View" at the top of the [Event Calendar](https://calendar.dallasmakerspace.org/)
   - Some classes are available online. Check out our online learning system at [learn.dallasmakerspace.org](https://learn.dallasmakerspace.org)
-  - Who can teach classes? Anyone! Check out the [Teach](http://dallasmakerspace.org/teach/) page on our main website. See the wiki for more on the process: [Class Making Process](https://dallasmakerspace.org/wiki/So_You_Want_to_Teach_A_Class)
-  - Frequently Asked Questions (FAQs) for Classes, including how to look up your Active Directory (AD) Group membership, are available at [this link](https://dallasmakerspace.org/wiki/Class_FAQs).
+  - Who can teach classes? Anyone! Check out the [Teach](http://dallasmakerspace.org/teach/) page on our main website. See the wiki for more on the process: [Class Making Process](/dms-source/archive/dallas-makerspace/so-you-want-to-teach-a-class/)
+  - Frequently Asked Questions (FAQs) for Classes, including how to look up your Active Directory (AD) Group membership, are available at [this link](/dms-source/archive/dallas-makerspace/class-faqs/).
 - **Member Projects**
   - Members are constantly working on new ideas and may need your help.
 - **Tool Certifications**
@@ -68,7 +66,7 @@ The "[dallasmakerspace.org](http://dallasmakerspace.org)" account may be used fo
   - We record tool certifications through the Active Directory (AD) system. Access to some tools require membership in the relevant AD group, which is recorded upon successful completion of the requisite training.
   - See which tool certifications are recorded for you using one of badge scanners in the Common Room, or by logging into the [DMS Member Portal](https://members.dallasmakerspace.org/).
 - **Remote Access**
-  - Some of our software and files are available remotely (with member log-in) on the "Jump Server". More information about the Jump Server is available on the [JumpServer FAQ page](https://dallasmakerspace.org/wiki/JumpServerFAQ).
+  - Some of our software and files are available remotely (with member log-in) on the "Jump Server". More information about the Jump Server is available on the [JumpServer FAQ page](/dms-source/archive/systems-and-infrastructure/jumpserverfaq/).
 
 ## Share
 
@@ -117,7 +115,7 @@ Brief Explanation of voting rights:
 - By becoming a "Regular Member",  we add to the number of voting members required to reach quorum (1/3 of voting members). This means it is especially important for regular members to participate. **If you find yourself unable to participate and vote, please switch back to being a "Supporting Member" (even if only temporarily) or assign your vote by proxy to a member you know will be participating.**
 - [Official policies regarding Voting Rights](/dms-source/rules-and-policies/#RulesandPolicies-VotingRights) are described in the Rules & Policies page which is the controlling document.
 
-An overview of Board of Directors elections, processes, and links to candidates is provided on the [Elections page](https://dallasmakerspace.org/wiki/Elections).
+An overview of Board of Directors elections, processes, and links to candidates is provided on the [Elections page](/dms-source/archive/dallas-makerspace/elections/).
 
 ## Safety
 
@@ -171,7 +169,7 @@ We only have so much usable space, so please don't just bring stuff up and leave
 
 We also have a "Member Exchange shelf", where you can drop off things that other people might be able to use. If the shelf is full, please don't pile things in front of it or leave them elsewhere in the space. Do NOT leave CRT monitors, paint, or anything that can't be thrown away legally on the free shelf. A full list of unacceptable items is on the [Member Exchange Shelf](https://dallasmakerspace.org/wiki/Logistics_Committee#Member_Exchange_Shelf) section of the Logistics committee page. The dumpster is not far away; please place items accordingly.
 
-For more information, please see the [Donation Section of our Rules](https://dallasmakerspace.org/wiki/Rules_and_Policies#Donations).
+For more information, please see the [Donation Section of our Rules](/dms-source/archive/dallas-makerspace/rules-and-policies/#Donations).
 
 ## New Member Signup
 

@@ -43,7 +43,7 @@ lastUpdated: 2022-11-09
   - Trivia vending machine: [Video](http://www.youtube.com/watch?v=pDOhk-YAhys)
 - Defcon - The Dallas MakerSpace had great representation at the Las Vegas event, with 15+ members participating.
 - Expo at Tanners.
-- Software Freedom Day 2013 (4th year): <https://dallasmakerspace.org/wiki/Software_Freedom_Day_2013>
+- Software Freedom Day 2013 (4th year): [https://dallasmakerspace.org/wiki/Software_Freedom_Day_2013](/dms-source/archive/completed-events/software-freedom-day-2013/)
 - Membership Party - this event attracted over 40 members to cheer each other
 - Christmas Party - this impromptu event attracted over 40 members to cheer the holidays
 - Speaker from Make Magazine spoke, and a party ensued

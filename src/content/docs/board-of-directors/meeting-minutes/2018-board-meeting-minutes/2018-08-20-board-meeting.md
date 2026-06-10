@@ -92,9 +92,9 @@ Any member may edit this wiki page and place an item on the agenda. However, dis
 
 **Problem**: I cannot find any record of why infrstructure is being allocated \$9,075 a month, electricity and internet are not being charged to that account in quickbooks, causing that account to accrue to a current balance of \$74,502.99. Which is a very large percentage of cash available to the organization if you remove other committee balances from our checking account balance.
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20170623> Mentions adding \$75 per month to Infrastructure for a backup internet connection, the action items then say "Add \$75 per month to Infrastructure's recurring budget. Now \$9,075/month" But there is no record of where the \$9,000 number came from
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20170623](/dms-source/archive/meetings/board-of-directors-meeting-20170623/) Mentions adding \$75 per month to Infrastructure for a backup internet connection, the action items then say "Add \$75 per month to Infrastructure's recurring budget. Now \$9,075/month" But there is no record of where the \$9,000 number came from
 
-The only previous increase in allocation I could find is <https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20161217> Increase Infrastructure's monthly allocation from \$2000 to \$6500 due to electric and gas bills now being classed to infrstructure instead of general fund
+The only previous increase in allocation I could find is [https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20161217](/dms-source/archive/meetings/board-of-directors-meeting-20161217/) Increase Infrastructure's monthly allocation from \$2000 to \$6500 due to electric and gas bills now being classed to infrstructure instead of general fund
 
 But since February 2018 the electric bill is no longer being charged to infrastructure. See talk post for tables of quickbooks entries
 

@@ -4,51 +4,6 @@ description: "These rules and policies are subject to change. Changes will becom
 sourceUrl: "https://source.dallasmakerspace.org/display/RULES/Rules+and+Policies"
 lastUpdated: 2026-04-28
 ---
-- 1 [Rule and Policy Changes](#RulesandPolicies-RuleandPolicyChanges)
-- 2 [Code of Conduct](#RulesandPolicies-CodeofConduct)
-  - 2.1 [Guests](#RulesandPolicies-Guests)
-  - 2.2 [Minors](#RulesandPolicies-Minors)
-  - 2.3 [Formal Complaints](#RulesandPolicies-FormalComplaints)
-  - 2.4 [Non-Discrimination Policy](#RulesandPolicies-Non-DiscriminationPolicy)
-  - 2.5 [Anti-Harassment Policy](#RulesandPolicies-Anti-HarassmentPolicy)
-  - 2.6 [Firearms\[4\]](#RulesandPolicies-Firearms%5B4%5D)
-  - 2.7 [Commercial Use](#RulesandPolicies-CommercialUse)
-  - 2.8 [Intoxicating Substance Policy](#RulesandPolicies-IntoxicatingSubstancePolicy)
-- 3 [Privacy Policy](#RulesandPolicies-PrivacyPolicy)
-- 4 [Membership Dues](#RulesandPolicies-MembershipDues)
-  - 4.1 [Voting Rights](#RulesandPolicies-VotingRights)
-- 5 [Classes & Events](#RulesandPolicies-Classes&Events)
-  - 5.1 [Outside Events](#RulesandPolicies-OutsideEvents)
-  - 5.2 [Honorarium Rules](#RulesandPolicies-HonorariumRules)
-    - 5.2.1 [Requirements](#RulesandPolicies-Requirements)
-    - 5.2.2 [Honorarium Payment Policies](#RulesandPolicies-HonorariumPaymentPolicies)
-- 6 [Organizational Meetings](#RulesandPolicies-OrganizationalMeetings)
-- 7 [Committees](#RulesandPolicies-Committees)
-  - 7.1 [Formation](#RulesandPolicies-Formation)
-  - 7.2 [Committee Leadership](#RulesandPolicies-CommitteeLeadership)
-  - 7.3 [Chair Elections](#RulesandPolicies-ChairElections)
-  - 7.4 [Committee Responsibilities and Rules](#RulesandPolicies-CommitteeResponsibilitiesandRules)
-  - 7.5 [Active Committees](#RulesandPolicies-ActiveCommittees)
-  - 7.6 [Inactive Committees](#RulesandPolicies-InactiveCommittees)
-  - 7.7 [Proposed Committees](#RulesandPolicies-ProposedCommittees)
-- 8 [Special Interest Groups (SIG)](#RulesandPolicies-SpecialInterestGroups(SIG))
-  - 8.1 [Formation](#RulesandPolicies-Formation.1)
-  - 8.2 [Formal SIGs](#RulesandPolicies-FormalSIGs)
-  - 8.3 [Informal SIGs](#RulesandPolicies-InformalSIGs)
-- 9 [Finances](#RulesandPolicies-Finances)
-- 10 [Organizational Roles and Responsibilities](#RulesandPolicies-OrganizationalRolesandResponsibilities)
-  - 10.1 [Treasurer and Financial Group](#RulesandPolicies-TreasurerandFinancialGroup)
-  - 10.2 [Other Officers](#RulesandPolicies-OtherOfficers)
-- 11 [Property and Equipment](#RulesandPolicies-PropertyandEquipment)
-  - 11.1 [Storage](#RulesandPolicies-Storage)
-    - 11.1.1 [Storage in Committee Areas](#RulesandPolicies-StorageinCommitteeAreas)
-  - 11.2 [Loaning of Tools & Equipment To The Makerspace](#RulesandPolicies-LoaningofTools&EquipmentToTheMakerspace)
-  - 11.3 [Donations](#RulesandPolicies-Donations)
-  - 11.4 [Member Exchange Shelf](#RulesandPolicies-MemberExchangeShelf)
-  - 11.5 [Disposition of Assets](#RulesandPolicies-DispositionofAssets)
-- 12 [Parking](#RulesandPolicies-Parking)
-- 13 [Notes](#RulesandPolicies-Notes)
-
 ------------------------------------------------------------------------
 
 ## Rule and Policy Changes
@@ -68,8 +23,8 @@ These rules and policies are subject to change. Changes will become effective im
     5.  The power to temporarily suspend may not be delegated - only the named Officer may perform the temporary expulsion
 5.  Don't merely respect each other; be excellent to each other.
     1.  We are all here to make things and learn. Collaboration is important.
-    2.  When you break something, own up to it. If you have any doubt about fixing it, ask for help. Don't make someone feel bad for breaking things, help them understand what went wrong.<sup>[\[1\]](https://dallasmakerspace.org/wiki/Rules_and_Policies#cite_note-1)</sup>
-    3.  Clean, Maintain, Organize, Improve. Always leave the space better than you found it.<sup>[\[2\]](https://dallasmakerspace.org/wiki/Rules_and_Policies#cite_note-2)</sup>
+    2.  When you break something, own up to it. If you have any doubt about fixing it, ask for help. Don't make someone feel bad for breaking things, help them understand what went wrong.<sup>[\[1\]](/dms-source/archive/dallas-makerspace/rules-and-policies/#cite_note-1)</sup>
+    3.  Clean, Maintain, Organize, Improve. Always leave the space better than you found it.<sup>[\[2\]](/dms-source/archive/dallas-makerspace/rules-and-policies/#cite_note-2)</sup>
     4.  Don't be afraid to ask questions. Answer them kindly; eventually you'll have to ask for help too.
     5.  Tools/resources must stay on the premises so that other members may use them. Removing tools/resources from the space without authorization from an Officer or member of the Board of Directors is theft.
         1.  An Officer or Director may authorize the temporary removal of a tool/resource for purposes relevant to organizational business

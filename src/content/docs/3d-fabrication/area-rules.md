@@ -70,11 +70,11 @@ Check the [DMS Calendar](https://calendar.dallasmakerspace.org/)
 
 ## Members
 
-Please click the following for an updated list of: [3D Fab Members - Roles And Authorizations](https://dallasmakerspace.org/wiki/3DFab-Members-RolesAndAuthorizations)
+Please click the following for an updated list of: [3D Fab Members - Roles And Authorizations](/dms-source/archive/3d-fabrication/3dfab-members-rolesandauthorizations/)
 
 ## Leadership
 
-Be sure to check the [Current Chairpersons](https://dallasmakerspace.org/wiki/Current_Chairpersons) page to find the latest chair and co-chair.
+Be sure to check the [Current Chairpersons](/dms-source/archive/dallas-makerspace/current-chairpersons/) page to find the latest chair and co-chair.
 
 ## Age Requirements
 

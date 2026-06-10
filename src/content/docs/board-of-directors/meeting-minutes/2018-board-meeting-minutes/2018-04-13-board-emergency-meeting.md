@@ -22,7 +22,7 @@ lastUpdated: 2022-11-09
 
 **Solution**: Install the newly elected board as follows: xxx, xxx, xxx, xxx, xxx (based on the below election results).
 
-**Relevance**: The ByLaws, sec 2.1.3, state the newly elected Directors term as taking effect on the moment of election, and the previous Directors ending at the same moment, unless re-elected. <https://dallasmakerspace.org/wiki/Bylaws#Section_2.1_Board_of_Directors>
+**Relevance**: The ByLaws, sec 2.1.3, state the newly elected Directors term as taking effect on the moment of election, and the previous Directors ending at the same moment, unless re-elected. [https://dallasmakerspace.org/wiki/Bylaws#Section_2.1_Board_of_Directors](/dms-source/archive/dallas-makerspace/bylaws/#Section_2.1_Board_of_Directors)
 
 ### Possible Expansion
 

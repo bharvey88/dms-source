@@ -46,4 +46,4 @@ lastUpdated: 2026-03-21
 
 Manual (multimachine): [Sherline Instructions.pdf](/dms-source/files/200802319/Sherline_Instructions.pdf)
 
-[Sherline Mill](https://dallasmakerspace.org/wiki/Sherline_mill)
+[Sherline Mill](/dms-source/archive/tools/sherline-mill/)

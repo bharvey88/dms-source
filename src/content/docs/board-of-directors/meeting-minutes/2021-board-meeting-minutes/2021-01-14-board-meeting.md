@@ -13,7 +13,7 @@ lastUpdated: 2022-11-09
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20201210#Minutes>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20201210#Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20201210/#Minutes)
 
 ## Financial Statement
 
@@ -44,12 +44,12 @@ A capital equipment form ([listed at the bottom of the Finance forms list](https
 - **3D Fabrication** : TBD
 - **Automotive** : TBC
 - **Blacksmithing** : Tim Dugger
-- **Digital Media** : JJ Perry [(Committee Minutes)](https://dallasmakerspace.org/wiki/Digital_Media_Committee_Meeting_20201219)
+- **Digital Media** : JJ Perry [(Committee Minutes)](/dms-source/archive/dallas-makerspace/digital-media-committee-meeting-20201219/)
 - **Electronics** : TBD
 - **GlassWorks** : Anita Willis
 - **Jewelry/Small Metals** : Johnny Bluejacket
 - **Laser** : TBD
-- **Machine Shop** : Tim Bene [(Committee Minutes)](https://dallasmakerspace.org/wiki/Machine_Shop_Committee_Meeting_20201024)
+- **Machine Shop** : Tim Bene [(Committee Minutes)](/dms-source/archive/meetings/machine-shop-committee-meeting-20201024/)
 - **Science** : TBD
 
 ### Product Photography (JJ Perry)

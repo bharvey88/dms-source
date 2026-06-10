@@ -21,7 +21,7 @@ John Fabrycki
 
 
 
-<https://dallasmakerspace.org/wiki/2022_Statement_of_Intent_-_John_Fabrycki>
+[https://dallasmakerspace.org/wiki/2022_Statement_of_Intent\_-\_John_Fabrycki](/dms-source/archive/dallas-makerspace/2022-statement-of-intent-john-fabrycki/)
 
 
 

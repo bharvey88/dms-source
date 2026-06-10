@@ -8,21 +8,10 @@ lastUpdated: 2024-01-24
 
 
 
-<table>
-<tbody>
-<tr>
-<th scope="col">Table of Contents</th>
-</tr>
-&#10;<tr>
-<td><ul>
-<li>1 <a href="#FiringTeamGuidelines-KilnTeamMembers">Kiln Team Members</a></li>
-<li>2 <a href="#FiringTeamGuidelines-BisqueLoading,Firing,andUnloading">Bisque Loading, Firing, and Unloading</a></li>
-<li>3 <a href="#FiringTeamGuidelines-GlazeLoading,Firing,andUnloading">Glaze Loading, Firing, and Unloading</a></li>
-<li>4 <a href="#FiringTeamGuidelines-BestPractices">Best Practices</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+|                   |
+|-------------------|
+| Table of Contents |
+|                   |
 
 ## Kiln Team Members
 

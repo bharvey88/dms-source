@@ -12,7 +12,7 @@ lastUpdated: 2022-11-09
 
 ## Prior minutes
 
-[Board_of_Directors_Meeting_20161217#Minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20161217#Minutes)
+[Board_of_Directors_Meeting_20161217#Minutes](/dms-source/archive/meetings/board-of-directors-meeting-20161217/#Minutes)
 
 ## Financial Statement
 
@@ -331,7 +331,7 @@ Harassment is prohibited and will not be tolerated. Any person who feels they ha
 
 **Solution:** Propose that the Dallas Makerspace Board issue a statement, like those of many other public institutions, that reinforces how the Board does not tolerate harassment and will act on complaints. This is not intended to create new rules since we already have an effective complaint and disciplinary process.
 
-This statement should be added to, or merged with, the [existing non-discrimination statement](https://dallasmakerspace.org/wiki/Rules_and_Policies#Non-Discrimination_Policy) on the rules page. I don’t think that existing statement is a rule just as the one below is not a rule; however, it does make sense to post these statements on the rules page since this statement provides direct guidance as to how the existing rules will be applied for these particularly egregious types of behavior. I plagiarized this from two other statements from public institutions and can provide attribution if needed.
+This statement should be added to, or merged with, the [existing non-discrimination statement](/dms-source/archive/dallas-makerspace/rules-and-policies/#Non-Discrimination_Policy) on the rules page. I don’t think that existing statement is a rule just as the one below is not a rule; however, it does make sense to post these statements on the rules page since this statement provides direct guidance as to how the existing rules will be applied for these particularly egregious types of behavior. I plagiarized this from two other statements from public institutions and can provide attribution if needed.
 
 **Minimal Statement Example:**
 

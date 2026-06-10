@@ -4,7 +4,7 @@ description: "The basic responsibility of a director is to help make long term d
 sourceUrl: "https://source.dallasmakerspace.org/display/Board/2016+Statement+of+Intent+Brandon+Green"
 lastUpdated: 2022-11-08
 ---
-The basic responsibility of a director is to help make long term decisions and steer the organization towards future growth and better fulfilling our 501c3 purpose of education( <https://dallasmakerspace.org/wiki/Mission_Statement> ). The Board meets once a month to direct funds from membership dues and set general policy towards those ends. The decisions of what happens inside the domain of a committee is up to the individual committee chairs. As a member of the board I would attempt to:
+The basic responsibility of a director is to help make long term decisions and steer the organization towards future growth and better fulfilling our 501c3 purpose of education( [https://dallasmakerspace.org/wiki/Mission_Statement](/dms-source/archive/dallas-makerspace/mission-statement/) ). The Board meets once a month to direct funds from membership dues and set general policy towards those ends. The decisions of what happens inside the domain of a committee is up to the individual committee chairs. As a member of the board I would attempt to:
 
 Decrease Entropy
 

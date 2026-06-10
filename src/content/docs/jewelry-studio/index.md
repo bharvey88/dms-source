@@ -24,7 +24,7 @@ The Dallas Makerspace Jewelry Studio offers a large assortment of tools and equi
 ## Safety & Training Information
 
 - Department orientation is suggested for anyone using department resources. Check the [Upcoming Classes and Events](https://calendar.dallasmakerspace.org/) page tor the next available class.
-- Training is required for all equipment as [designated](https://dallasmakerspace.org/w/index.php?title=Designated&action=edit&redlink=1) on the [DMS Tool page](https://dallasmakerspace.org/wiki/Tools) and or otherwise designated by physical markings.
+- Training is required for all equipment as [designated](https://dallasmakerspace.org/w/index.php?title=Designated&action=edit&redlink=1) on the [DMS Tool page](/dms-source/archive/dallas-makerspace/tools/) and or otherwise designated by physical markings.
 - Mind the posted rules and or other posted information.
 - Members interested in working in Jewelry should review this [Health and Safety in Metal Jewelry: Overview](http://www.nontoxichub.com/hs-inmetaljewelry)
 - Safety concerns should be reported to the Department Chairman, Vice Chair, designated safety officer, a DMS Board member immediately, or on the [TALK Forums](https://talk.dallasmakerspace.org/c/issues-requests)
@@ -32,7 +32,7 @@ The Dallas Makerspace Jewelry Studio offers a large assortment of tools and equi
 
 ## Tools Available in the Jewelry Studio
 
-See [DMS Tools page](https://dallasmakerspace.org/wiki/Tools)
+See [DMS Tools page](/dms-source/archive/dallas-makerspace/tools/)
 
 ## Consumables
 

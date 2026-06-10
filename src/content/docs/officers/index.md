@@ -33,7 +33,7 @@ For more information on how the Dallas Makerspace is organized, please read the 
 3.  Officer terms begin upon appointment and terminate in accordance with DMS Bylaws
 4.  Officers shall have specific powers and duties enumerated by the Board of Directors
 
-Note: [Disciplinary matters (suspension, trespassing, etc)](https://dallasmakerspace.org/wiki/Rules_and_Policies#Code_of_Conduct) cannot be delegated away from an executive officer of the corporation.
+Note: [Disciplinary matters (suspension, trespassing, etc)](/dms-source/archive/dallas-makerspace/rules-and-policies/#Code_of_Conduct) cannot be delegated away from an executive officer of the corporation.
 
 ## Why should I volunteer as an officer?
 

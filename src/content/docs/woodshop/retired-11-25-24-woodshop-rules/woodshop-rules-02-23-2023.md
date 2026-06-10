@@ -16,7 +16,7 @@ These are a prior version of the rules, See Woodshop Rules 09-18_2023 for lastes
 
 **Overview:**
 
-- Training is **required** for most power tools in the Woodshop. Refer to the [*DMS tools information page*](https://dallasmakerspace.org/wiki/Tools#Woodshop) ([https://dallasmakerspace.org/wiki/Tools#Woodshop<sup><img src="https://source.dallasmakerspace.org/images/icons/linkext7.gif" data-align="absmiddle" data-border="0" width="7" height="7" /></sup>](https://dallasmakerspace.org/wiki/Tools#Woodshop)) for specific details.
+- Training is **required** for most power tools in the Woodshop. Refer to the [*DMS tools information page*](/dms-source/archive/dallas-makerspace/tools/#Woodshop) ([https://dallasmakerspace.org/wiki/Tools#Woodshop<sup><img src="https://source.dallasmakerspace.org/images/icons/linkext7.gif" data-align="absmiddle" data-border="0" width="7" height="7" /></sup>](/dms-source/archive/dallas-makerspace/tools/#Woodshop)) for specific details.
 
 <img src="https://source.dallasmakerspace.org/download/attachments/embedded-page/WOOD/%5CWoodshop%20Rules_%2002_23_2023/worddave09b21e8f1ec8cf1f19d4c1d76c5c53b.png" draggable="false" width="121" height="144" />
 

@@ -16,11 +16,11 @@ lastUpdated: 2022-11-09
 
 ## Prior minutes
 
-[Board of Directors Meeting 20180427](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180427)
+[Board of Directors Meeting 20180427](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180427/)
 
-[Board of Directors Meeting 20180502 Emergency Meeting](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180502_Emergency_Meeting)
+[Board of Directors Meeting 20180502 Emergency Meeting](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180502-emergency-meeting/)
 
-[Board of Directors Meeting 20180508 Emergency Meeting](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180508_Emergency_Meeting)
+[Board of Directors Meeting 20180508 Emergency Meeting](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180508-emergency-meeting/)
 
 ## Financial Statement
 

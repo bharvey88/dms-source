@@ -72,7 +72,7 @@ lastUpdated: 2026-03-24
 
   ### Reference Materials
 
-  [Public Domain Books on Machining](https://dallasmakerspace.org/wiki/Public_Domain_Books_on_Machining)\
+  [Public Domain Books on Machining](/dms-source/archive/machine-shop/public-domain-books-on-machining/)\
   [English and Metric Tap and Clearance drill sizes](http://littlemachineshop.com/Reference/TapDrillSizes.pdf)\
   [Rake and relief angles for lathe cutting tools](http://littlemachineshop.com/Reference/RakeRelief.php)\
   [Sharpening Lathe tool bits](http://littlemachineshop.com/instructions/GrindingToolBits.pdf)\

@@ -18,7 +18,7 @@ This meeting will be held in [Modified SRC3](https://dallasmakerspace.org/wiki/S
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20171215#Minutes>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20171215#Minutes](/dms-source/archive/meetings/board-of-directors-meeting-20171215/#Minutes)
 
 ## Financial Statement
 
@@ -62,7 +62,7 @@ Any member may edit this wiki page and place an item on the agenda. However, dis
 
 **Problem**: Adding or removing voting rights needs to be easier for members. Currently, the only method is to email <accounts@dallasmakerspace.org> requesting voting rights changes. This labor-intensive for the few volunteer Accounts Admins we have, and during election season can be a burden.
 
-**Solution**: In accordance to our [Voting Rights Rule \#3](https://dallasmakerspace.org/wiki/Rules_and_Policies#Voting_Rights), I'm requesting that the Board approve an alternate method of adding and deleting voting rights that only requires the member to swipe their RFID and press a button on a kiosk. When this is approved, I'll request that one of the Software Development SIG members modify the code on the Member Info kiosk in the common room to implement this before the spring elections.
+**Solution**: In accordance to our [Voting Rights Rule \#3](/dms-source/archive/dallas-makerspace/rules-and-policies/#Voting_Rights), I'm requesting that the Board approve an alternate method of adding and deleting voting rights that only requires the member to swipe their RFID and press a button on a kiosk. When this is approved, I'll request that one of the Software Development SIG members modify the code on the Member Info kiosk in the common room to implement this before the spring elections.
 
 ### Abuse of Administrative Privileges and Theft of DMS Resources by Infrastructure Committee (Merissa Green)
 
@@ -216,7 +216,7 @@ We have submitted this package for pricing, but do not have the cost yet. We ant
 
 **Problem**: Without the minutes, the treasurer has no way to process any allocations or expenditures for committees or equipment purchases.
 
-**Solution**: Please post the minutes for Board of Directors Meetings: [2017-11-19](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20171119#Minutes), [2017-12-15](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20171215#Minutes)
+**Solution**: Please post the minutes for Board of Directors Meetings: [2017-11-19](/dms-source/archive/meetings/board-of-directors-meeting-20171119/#Minutes), [2017-12-15](/dms-source/archive/meetings/board-of-directors-meeting-20171215/#Minutes)
 
 **Relevance**: We cannot complete our finances for 2017 if we do not process the actions as needed.
 

@@ -9,7 +9,7 @@ lastUpdated: 2022-05-21
 - **Report problems with equipment ASAP via the Talk forum "Issues and Requests" category. Tag @Team_Laser in post.** More information about reporting issues can be found [by clicking here.](https://talk.dallasmakerspace.org/t/issue-the-ticket-system-is-gone-sample-of-how-to-report-an-issue-or-make-a-request/13892)
 - [Tool Status Board.](https://dallasmakerspace.org/cgi-bin/toolstatus.cgi) Is equipment operational, needing maintenance, or out of service?
 - [Laser Area Camera.](https://dallasmakerspace.org/cgi-bin2/cam?cam=laser) View a still image of the area to see if the equipment is currently in use.
-- [Maintenance History Log.](https://dallasmakerspace.org/wiki/Laser_Committee/Maintenance_History)
+- [Maintenance History Log.](/dms-source/archive/laser/laser-committee-maintenance-history/)
 
 ### Laser Authorized People
 

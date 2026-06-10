@@ -8,37 +8,37 @@ lastUpdated: 2023-06-29
 
 
 
-- [1 Time, location](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Time.2C_location)
-- [2 YouTube Live Link](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#YouTube_Live_Link)
-- [3 Prior minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Prior_minutes)
-- [4 Financial Statement](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Financial_Statement)
-- [5 Member Recognition](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Member_Recognition)
-- [6 Consent Agenda](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Consent_Agenda)
-  - [6.1 Confirm committee chairs (Chris Marlow)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Confirm_committee_chairs_.28Chris_Marlow.29)
-  - [6.2 Combine Plastics Area with Machine Shop (Nick Silva)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Combine_Plastics_Area_with_Machine_Shop_.28Nick_Silva.29)
-  - [6.3 Establish Grant Workgroup (denzuko)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Establish_Grant_Workgroup_.28denzuko.29)
-  - [6.4 Remove Parts Washer fund and move remaining balance to general fund (Brandon Green)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Remove_Parts_Washer_fund_and_move_remaining_balance_to_general_fund_.28Brandon_Green.29)
-  - [6.5 Change Cutoff Time for Regular Member Meetings (Mike Cole \[Draco\])](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Change_Cutoff_Time_for_Regular_Member_Meetings_.28Mike_Cole_.5BDraco.5D.29)
-- [7 New Business](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#New_Business)
-  - [7.1 Protect Communication Platform (Luke Strickland)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Protect_Communication_Platform_.28Luke_Strickland.29)
-  - [7.2 Remove Kris Anderson as DMS Talk Admin (Luke Strickland)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Remove_Kris_Anderson_as_DMS_Talk_Admin_.28Luke_Strickland.29)
-  - [7.3 Restore DMS Talk Committee Categories to Public Access (Ken Purcell)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Restore_DMS_Talk_Committee_Categories_to_Public_Access_.28Ken_Purcell.29)
-  - [7.4 Change Infrastructure, Logistics, PR, and Classroom from committees to groups (Kris Anderson)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Change_Infrastructure.2C_Logistics.2C_PR.2C_and_Classroom_from_committees_to_groups_.28Kris_Anderson.29)
-  - [7.5 \[Withdrawn - john\]Change Board of Directors from elected positions to appointed positions (john a. gorman)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#.5BWithdrawn_-_john.5DChange_Board_of_Directors_from_elected_positions_to_appointed_positions_.28john_a._gorman.29)
-  - [7.6 Affidavit from all individuals who have Talk Admin rights (Frank Lima)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Affidavit_from_all_individuals_who_have_Talk_Admin_rights_.28Frank_Lima.29)
-  - [7.7 Luke Strickland needs to resign from the BoD so that DMS can move forward (Nick Silva)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Luke_Strickland_needs_to_resign_from_the_BoD_so_that_DMS_can_move_forward_.28Nick_Silva.29)
-  - [7.8 Hold all board members to Nick's standard of required activity (Brandon Green)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Hold_all_board_members_to_Nick.27s_standard_of_required_activity_.28Brandon_Green.29)
-  - [7.9 ­­­­­­­­­­­­­­­­­­Define Roles and Responsibilities for: Treasurer and Financial Group (David Kessinger)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.ADDefine_Roles_and_Responsibilities_for:_Treasurer_and_Financial_Group_.28David_Kessinger.29)
-  - [7.10 Appoint Ken Purcell as Treasurer (David Kessinger)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Appoint_Ken_Purcell_as_Treasurer_.28David_Kessinger.29)
-  - [7.11 Appoint Mary Mulherin as Secretary (Kris Anderson)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Appoint_Mary_Mulherin_as_Secretary_.28Kris_Anderson.29)
-  - [7.12 Change Next Chair Elections to May of 2019 (Steve Blanchard)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Change_Next_Chair_Elections_to_May_of_2019_.28Steve_Blanchard.29)
-  - [7.13 Change The Posting of Elections to 13 Days and 12 Hours (Steve Blanchard)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Change_The_Posting_of_Elections_to_13_Days_and_12_Hours_.28Steve_Blanchard.29)
-  - [7.14 Disallow Tips in Class Descriptions (Steve Blanchard)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Disallow_Tips_in_Class_Descriptions_.28Steve_Blanchard.29)
-  - [7.15 Make DMS Talk Forum private (Kris Anderson)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Make_DMS_Talk_Forum_private_.28Kris_Anderson.29)
-- [8 Member Complaints](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Member_Complaints)
-- [9 Emergency Items](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Emergency_Items)
-- [10 Set Next BoD Meeting](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Set_Next_BoD_Meeting)
-- [11 Minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180917#Minutes)
+- [1 Time, location](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Time.2C_location)
+- [2 YouTube Live Link](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#YouTube_Live_Link)
+- [3 Prior minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Prior_minutes)
+- [4 Financial Statement](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Financial_Statement)
+- [5 Member Recognition](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Member_Recognition)
+- [6 Consent Agenda](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Consent_Agenda)
+  - [6.1 Confirm committee chairs (Chris Marlow)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Confirm_committee_chairs_.28Chris_Marlow.29)
+  - [6.2 Combine Plastics Area with Machine Shop (Nick Silva)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Combine_Plastics_Area_with_Machine_Shop_.28Nick_Silva.29)
+  - [6.3 Establish Grant Workgroup (denzuko)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Establish_Grant_Workgroup_.28denzuko.29)
+  - [6.4 Remove Parts Washer fund and move remaining balance to general fund (Brandon Green)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Remove_Parts_Washer_fund_and_move_remaining_balance_to_general_fund_.28Brandon_Green.29)
+  - [6.5 Change Cutoff Time for Regular Member Meetings (Mike Cole \[Draco\])](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Change_Cutoff_Time_for_Regular_Member_Meetings_.28Mike_Cole_.5BDraco.5D.29)
+- [7 New Business](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#New_Business)
+  - [7.1 Protect Communication Platform (Luke Strickland)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Protect_Communication_Platform_.28Luke_Strickland.29)
+  - [7.2 Remove Kris Anderson as DMS Talk Admin (Luke Strickland)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Remove_Kris_Anderson_as_DMS_Talk_Admin_.28Luke_Strickland.29)
+  - [7.3 Restore DMS Talk Committee Categories to Public Access (Ken Purcell)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Restore_DMS_Talk_Committee_Categories_to_Public_Access_.28Ken_Purcell.29)
+  - [7.4 Change Infrastructure, Logistics, PR, and Classroom from committees to groups (Kris Anderson)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Change_Infrastructure.2C_Logistics.2C_PR.2C_and_Classroom_from_committees_to_groups_.28Kris_Anderson.29)
+  - [7.5 \[Withdrawn - john\]Change Board of Directors from elected positions to appointed positions (john a. gorman)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#.5BWithdrawn_-_john.5DChange_Board_of_Directors_from_elected_positions_to_appointed_positions_.28john_a._gorman.29)
+  - [7.6 Affidavit from all individuals who have Talk Admin rights (Frank Lima)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Affidavit_from_all_individuals_who_have_Talk_Admin_rights_.28Frank_Lima.29)
+  - [7.7 Luke Strickland needs to resign from the BoD so that DMS can move forward (Nick Silva)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Luke_Strickland_needs_to_resign_from_the_BoD_so_that_DMS_can_move_forward_.28Nick_Silva.29)
+  - [7.8 Hold all board members to Nick's standard of required activity (Brandon Green)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Hold_all_board_members_to_Nick.27s_standard_of_required_activity_.28Brandon_Green.29)
+  - [7.9 ­­­­­­­­­­­­­­­­­­Define Roles and Responsibilities for: Treasurer and Financial Group (David Kessinger)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.AD.C2.ADDefine_Roles_and_Responsibilities_for:_Treasurer_and_Financial_Group_.28David_Kessinger.29)
+  - [7.10 Appoint Ken Purcell as Treasurer (David Kessinger)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Appoint_Ken_Purcell_as_Treasurer_.28David_Kessinger.29)
+  - [7.11 Appoint Mary Mulherin as Secretary (Kris Anderson)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Appoint_Mary_Mulherin_as_Secretary_.28Kris_Anderson.29)
+  - [7.12 Change Next Chair Elections to May of 2019 (Steve Blanchard)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Change_Next_Chair_Elections_to_May_of_2019_.28Steve_Blanchard.29)
+  - [7.13 Change The Posting of Elections to 13 Days and 12 Hours (Steve Blanchard)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Change_The_Posting_of_Elections_to_13_Days_and_12_Hours_.28Steve_Blanchard.29)
+  - [7.14 Disallow Tips in Class Descriptions (Steve Blanchard)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Disallow_Tips_in_Class_Descriptions_.28Steve_Blanchard.29)
+  - [7.15 Make DMS Talk Forum private (Kris Anderson)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Make_DMS_Talk_Forum_private_.28Kris_Anderson.29)
+- [8 Member Complaints](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Member_Complaints)
+- [9 Emergency Items](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Emergency_Items)
+- [10 Set Next BoD Meeting](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Set_Next_BoD_Meeting)
+- [11 Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180917/#Minutes)
 
 ## Time, location
 
@@ -193,7 +193,7 @@ Any member may edit this wiki page and place an item on the agenda. However, dis
 
 **Problem**: Machine Shop (MS) has formally voted to create and support a Plastics and Composites group as a Special Interest Group under the governance of the MS. Machine shop is formally requesting that the 22' x 12' area designated for plastics in the expansion plan be formally merged with the MS. A proposed layout is available in the <https://talk.dallasmakerspace.org/t/plastics-area-layout-and-tools/41618> link.
 
-**Solution**: Merge the adjacent Plastics area with the Machine Shop. This will allow for the easy sharing of common tools while outfitting the area with Plastic and Composites specific equipment, dust control, and workspace. Initial equipment will come from donations and by moving equipment such as the acrylic bender and vacuum former into the plastics area. Funding will come from the machine shop committee budget and class honorariums. A [WIKI page](https://dallasmakerspace.org/wiki/Plastics_and_Composites_Interest_Group) has been created for the proposed group.
+**Solution**: Merge the adjacent Plastics area with the Machine Shop. This will allow for the easy sharing of common tools while outfitting the area with Plastic and Composites specific equipment, dust control, and workspace. Initial equipment will come from donations and by moving equipment such as the acrylic bender and vacuum former into the plastics area. Funding will come from the machine shop committee budget and class honorariums. A [WIKI page](/dms-source/archive/interest-groups/plastics-and-composites-interest-group/) has been created for the proposed group.
 
 **Relevance**: Not required. Does not require funds of \$200 or more.
 
@@ -205,7 +205,7 @@ Grants for Small Museums is a special initiative of the Museums for America gran
 
 The board must appoint a representative of the space before any grant can be submitted.
 
-**Solution**: Creation of the [Grant Group](https://dallasmakerspace.org/wiki/Grant_Group), whose goals are to operate as an advisory group to the board for securing a grant from Grants for Small Museums towards Dallas Makerspace with regards to the [Interactive Computer Musuem](https://dallasmakerspace.org/wiki/Interactive_Computer_Museum). As an advisory group all final decisions would go before the board for further consideration. The Grant Group would only preform the leg work, drafting and preparation of material with conjunction with the BoD and Finance Group.
+**Solution**: Creation of the [Grant Group](/dms-source/archive/archive/grant-group/), whose goals are to operate as an advisory group to the board for securing a grant from Grants for Small Museums towards Dallas Makerspace with regards to the [Interactive Computer Musuem](/dms-source/archive/hackerspace-committee/interactive-computer-museum/). As an advisory group all final decisions would go before the board for further consideration. The Grant Group would only preform the leg work, drafting and preparation of material with conjunction with the BoD and Finance Group.
 
 **Relevance**:
 

@@ -4,29 +4,29 @@ description: "This meeting will be held in Modified SRC3 format."
 sourceUrl: "https://source.dallasmakerspace.org/display/Board/2014-12-14+Board+Meeting"
 lastUpdated: 2023-06-29
 ---
-This meeting will be held in [Modified SRC3](https://dallasmakerspace.org/wiki/Modified_SRC3) format.
+This meeting will be held in [Modified SRC3](/dms-source/archive/dallas-makerspace/modified-src3/) format.
 
 ## Contents
 
 
 
-- [1 Time, location](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Time.2C_location)
-- [2 Prior minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Prior_minutes)
-- [3 Officer/Committee reports](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Officer.2FCommittee_reports)
-- [4 Consent Agenda](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Consent_Agenda)
-  - [4.1 Set Photography Committee as Inactive (Brooks Scharff)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Set_Photography_Committee_as_Inactive_.28Brooks_Scharff.29)
-  - [4.2 Part/refurbishment tool storage shelf for workshop (Nicholas Schell)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Part.2Frefurbishment_tool_storage_shelf_for_workshop_.28Nicholas_Schell.29)
-  - [4.3 Funding for DMS Racing spare KA24DE 'teaching engine' (Brandon Green)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Funding_for_DMS_Racing_spare_KA24DE_.27teaching_engine.27_.28Brandon_Green.29)
-  - [4.4 Getting Our Old Landlord To Pay For An Electric Bill (Paul Brown)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Getting_Our_Old_Landlord_To_Pay_For_An_Electric_Bill_.28Paul_Brown.29)
-- [5 New Business](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#New_Business)
-  - [5.1 Lease Parts Washer (Bryan Gangwere)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Lease_Parts_Washer_.28Bryan_Gangwere.29)
-  - [5.2 Free up valuable workshop and project storage space (Brandon Green)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Free_up_valuable_workshop_and_project_storage_space_.28Brandon_Green.29)
-  - [5.3 Replacement Miter Saw for Wood (Alex Rhodes) (PULLED)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Replacement_Miter_Saw_for_Wood_.28Alex_Rhodes.29_.28PULLED.29)
-  - [5.4 HackDFW (Austin Wells)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#HackDFW_.28Austin_Wells.29)
-  - [5.5 Formation of Official Bigfoot Research Committee (Noah Glaser)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Formation_of_Official_Bigfoot_Research_Committee_.28Noah_Glaser.29)
-  - [5.6 Approve Recurring Monthly Payment For Quickbooks Online (Paul Brown)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Approve_Recurring_Monthly_Payment_For_Quickbooks_Online_.28Paul_Brown.29)
-  - [5.7 Approve Electrical Expenses (Robert Davidson)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Approve_Electrical_Expenses_.28Robert_Davidson.29)
-- [6 Minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141214#Minutes)
+- [1 Time, location](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Time.2C_location)
+- [2 Prior minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Prior_minutes)
+- [3 Officer/Committee reports](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Officer.2FCommittee_reports)
+- [4 Consent Agenda](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Consent_Agenda)
+  - [4.1 Set Photography Committee as Inactive (Brooks Scharff)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Set_Photography_Committee_as_Inactive_.28Brooks_Scharff.29)
+  - [4.2 Part/refurbishment tool storage shelf for workshop (Nicholas Schell)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Part.2Frefurbishment_tool_storage_shelf_for_workshop_.28Nicholas_Schell.29)
+  - [4.3 Funding for DMS Racing spare KA24DE 'teaching engine' (Brandon Green)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Funding_for_DMS_Racing_spare_KA24DE_.27teaching_engine.27_.28Brandon_Green.29)
+  - [4.4 Getting Our Old Landlord To Pay For An Electric Bill (Paul Brown)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Getting_Our_Old_Landlord_To_Pay_For_An_Electric_Bill_.28Paul_Brown.29)
+- [5 New Business](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#New_Business)
+  - [5.1 Lease Parts Washer (Bryan Gangwere)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Lease_Parts_Washer_.28Bryan_Gangwere.29)
+  - [5.2 Free up valuable workshop and project storage space (Brandon Green)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Free_up_valuable_workshop_and_project_storage_space_.28Brandon_Green.29)
+  - [5.3 Replacement Miter Saw for Wood (Alex Rhodes) (PULLED)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Replacement_Miter_Saw_for_Wood_.28Alex_Rhodes.29_.28PULLED.29)
+  - [5.4 HackDFW (Austin Wells)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#HackDFW_.28Austin_Wells.29)
+  - [5.5 Formation of Official Bigfoot Research Committee (Noah Glaser)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Formation_of_Official_Bigfoot_Research_Committee_.28Noah_Glaser.29)
+  - [5.6 Approve Recurring Monthly Payment For Quickbooks Online (Paul Brown)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Approve_Recurring_Monthly_Payment_For_Quickbooks_Online_.28Paul_Brown.29)
+  - [5.7 Approve Electrical Expenses (Robert Davidson)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Approve_Electrical_Expenses_.28Robert_Davidson.29)
+- [6 Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20141214/#Minutes)
 
 ## Time, location
 
@@ -34,18 +34,18 @@ This meeting will be held in [Modified SRC3](https://dallasmakerspace.org/wiki/M
 
 ## Prior minutes
 
-[Board_of_Directors_Meeting_20141116#Minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20141116#Minutes)
+[Board_of_Directors_Meeting_20141116#Minutes](/dms-source/archive/meetings/board-of-directors-meeting-20141116/#Minutes)
 
 ## Officer/Committee reports
 
 - [3d Fabrication Committee](https://dallasmakerspace.org/wiki/3d_Fabrication_Committee) - Lisa Selk
-- [Amateur Radio Committee](https://dallasmakerspace.org/wiki/Amateur_Radio_Committee) - Benjamin Groves
+- [Amateur Radio Committee](/dms-source/archive/inactive-committees/amateur-radio-committee/) - Benjamin Groves
   - Committee Meetings held on 11/15 and 12/4
     - Closer to Roof Antenna install
     - After antenna will be getting a proper desk set up in that office
       - Will confer with Machine Shop Committee
     - Amateur Radio Committee would like to participate in devising a radio telemetry system for the Lemons Racing effort
-- [Aerospace Committee](https://dallasmakerspace.org/wiki/Aerospace_Committee) - Romeo Espana
+- [Aerospace Committee](/dms-source/archive/inactive-committees/aerospace-committee/) - Romeo Espana
 - [Automotive Committee](https://dallasmakerspace.org/wiki/Automotive_Committee) - Brandon Green
   - Kicked off lemons 2015 build
     - Lots of interest from people wanting to help
@@ -73,8 +73,8 @@ This meeting will be held in [Modified SRC3](https://dallasmakerspace.org/wiki/M
   - Reminder: If YOU break the laser, let the committee know so we can fix it.
   - Reminder: The laser usage amount goes up in January. (to \$1/5min)
 - [Machine Shop Committee](https://dallasmakerspace.org/wiki/Machine_Shop_Committee) - Bryan Gangwere
-- [Operations and Facilities Committee](https://dallasmakerspace.org/wiki/Operations_and_Facilities_Committee) - Andrew LeCody
-- [Photography Lab](https://dallasmakerspace.org/wiki/Photography_Lab) (Darkroom Committee) - Steve Reeves
+- [Operations and Facilities Committee](/dms-source/archive/archive/operations-and-facilities-committee/) - Andrew LeCody
+- [Photography Lab](/dms-source/archive/photography/photography-lab/) (Darkroom Committee) - Steve Reeves
 - [Public Relations Committee](https://dallasmakerspace.org/wiki/Public_Relations_Committee) - Steve Blanchard
 - [Workshop Committee](https://dallasmakerspace.org/wiki/Workshop_Committee) - Alex Rhodes
 - [VECTOR Committee](https://dallasmakerspace.org/wiki/VECTOR_Committee) - Nic Schell
@@ -92,7 +92,7 @@ Any member may edit this wiki page and place an item on the agenda. However, dis
 
 **Problem:** The Photography/Darkroom committee has not had a meeting in over three months.
 
-**Solution:** Per Section 10 of the Rules, a committee that has not met in over 3 months will be considered inactive and all committee funds returned to the General Fund. See [HERE](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20140216)
+**Solution:** Per Section 10 of the Rules, a committee that has not met in over 3 months will be considered inactive and all committee funds returned to the General Fund. See [HERE](/dms-source/archive/meetings/board-of-directors-meeting-20140216/)
 
 ### Part/refurbishment tool storage shelf for workshop (Nicholas Schell)
 

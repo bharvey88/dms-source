@@ -16,7 +16,7 @@ lastUpdated: 2022-11-09
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180418_Emergency_Meeting>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180418_Emergency_Meeting](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180418-emergency-meeting/)
 
 ## Financial Statement
 
@@ -107,7 +107,7 @@ Motion: "Payments for classes, events, or reimbursement requests shall include a
 
 ### Appoint President (Erik Smith)
 
-**Problem**: The bylaws require the appointment of a President ([Bylaws Section 3.1.1](https://dallasmakerspace.org/wiki/Bylaws#Section_3.1.1_President)). Officer Terms automatically expire after each annual meeting ([Bylaws Section 3.3](https://dallasmakerspace.org/wiki/Bylaws#Article_3.3_Officer_Terms)), thus a new appointment is required. The President has historically run Board meetings and acts as the public face of DMS.
+**Problem**: The bylaws require the appointment of a President ([Bylaws Section 3.1.1](/dms-source/archive/dallas-makerspace/bylaws/#Section_3.1.1_President)). Officer Terms automatically expire after each annual meeting ([Bylaws Section 3.3](/dms-source/archive/dallas-makerspace/bylaws/#Article_3.3_Officer_Terms)), thus a new appointment is required. The President has historically run Board meetings and acts as the public face of DMS.
 
 **Solution**: Nominate and approve a qualified member to the office of President
 
@@ -115,7 +115,7 @@ Motion: "Payments for classes, events, or reimbursement requests shall include a
 
 ### Appoint Secretary (Erik Smith)
 
-**Problem**: The bylaws require the appointment of a Secretary ([Bylaws Section 3.1.2](https://dallasmakerspace.org/wiki/Bylaws#Section_3.1.2_Secretary)). Officer Terms automatically expire after each annual meeting ([Bylaws Section 3.3](https://dallasmakerspace.org/wiki/Bylaws#Article_3.3_Officer_Terms)), thus a new appointment is required. The Secretary is the custodian of records and interfaces with the Secretary of State.
+**Problem**: The bylaws require the appointment of a Secretary ([Bylaws Section 3.1.2](/dms-source/archive/dallas-makerspace/bylaws/#Section_3.1.2_Secretary)). Officer Terms automatically expire after each annual meeting ([Bylaws Section 3.3](/dms-source/archive/dallas-makerspace/bylaws/#Article_3.3_Officer_Terms)), thus a new appointment is required. The Secretary is the custodian of records and interfaces with the Secretary of State.
 
 **Solution**: Nominate and approve a qualified member to the office of Secretary
 
@@ -123,7 +123,7 @@ Motion: "Payments for classes, events, or reimbursement requests shall include a
 
 ### Appoint Treasurer (Erik Smith)
 
-**Problem**: The bylaws require the appointment of the Officers not defined in the bylaws ([Bylaws Section 3.1.3](https://dallasmakerspace.org/wiki/Bylaws#Article_3.1.3_Other_Officers)). Officer Terms automatically expire after each annual meeting ([Bylaws Section 3.3](https://dallasmakerspace.org/wiki/Bylaws#Article_3.3_Officer_Terms)), thus a new appointment is necessary. The Treasurer has historically managed DMS accounting.
+**Problem**: The bylaws require the appointment of the Officers not defined in the bylaws ([Bylaws Section 3.1.3](/dms-source/archive/dallas-makerspace/bylaws/#Article_3.1.3_Other_Officers)). Officer Terms automatically expire after each annual meeting ([Bylaws Section 3.3](/dms-source/archive/dallas-makerspace/bylaws/#Article_3.3_Officer_Terms)), thus a new appointment is necessary. The Treasurer has historically managed DMS accounting.
 
 **Solution**: Nominate and approve a qualified member to the office of Treasurer
 
@@ -131,7 +131,7 @@ Motion: "Payments for classes, events, or reimbursement requests shall include a
 
 ### Appoint Procurement Officers (Erik Smith)
 
-**Problem**: Per policy on the [Procurement Officers page](https://dallasmakerspace.org/wiki/Procurement_Officers), Procurement Officer terms end when the next Board is appointed, thus procurement officers need to be re-appointed.
+**Problem**: Per policy on the [Procurement Officers page](/dms-source/archive/dallas-makerspace/procurement-agents/), Procurement Officer terms end when the next Board is appointed, thus procurement officers need to be re-appointed.
 
 **Solution**: Re-appoint the following individuals as Procurement Officers - changing as necessary to reflect changes since the last time the page was updated:
 
@@ -171,12 +171,12 @@ Motion: "Payments for classes, events, or reimbursement requests shall include a
 - 3D Fab: Mitch Cerroni elected
 - Automotive: Tom Tansey re-elected 4/2/18
 - Blacksmithing: Ethan Western
-- Civic Hacking: See agenda item: [Civic Hacking does not need to be a Committee](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180427#Civic_Hacking_does_not_need_to_be_a_Committee_.28Stephen_Wylie.29)
+- Civic Hacking: See agenda item: [Civic Hacking does not need to be a Committee](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180427/#Civic_Hacking_does_not_need_to_be_a_Committee_.28Stephen_Wylie.29)
 - Classroom: john a gorman re-elected 4/9/18
 - Creative Arts: Roger Valles elected 4/3/18
 - Digital Media: Daniel Hawn
 - Electronics: Art Givens re-elected 4/4/18
-- Finance: See agenda item: \[[of Finance Committee Replaced By Finance Group Headed By Treasurer (David Kessinger)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20180427#Dissolution_of_Finance_Committee_Replaced_By_Finance_Group_Headed_By_Treasurer_.28David_Kessinger.29%7CDissolution)\]
+- Finance: See agenda item: \[[of Finance Committee Replaced By Finance Group Headed By Treasurer (David Kessinger)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20180427/#Dissolution_of_Finance_Committee_Replaced_By_Finance_Group_Headed_By_Treasurer_.28David_Kessinger.29%7CDissolution)\]
 - Fired Arts: Chris Cooper re-elected 4/24/18
 - Hatchers: Nick Sainz elected 4/10/18
 - Infrastructure: Stan Simmons re-elected 4/20/18

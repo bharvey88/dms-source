@@ -14,7 +14,7 @@ All members start off as Supporting Members, with no voting rights.\[5\]
 
 A Supporting Member must have been a member for the immediate past 90 days to become a Regular Member. **Exceptions will be considered on a case by case basis jointly by the Infrastructure and Finance Chairs.**
 
-A member’s application to change from Supporting Member to Regular Member must be submitted: Thru the DMS Voting Registration site at <https://votingrights.dallasmakerspace.org> allowing you to add or remove your own voting right Via email to <accounts@dallasmakerspace.org> from the email address registered on their account, Thru other electronic registration approved by the Board of Directors. Rights will be effective upon receipt of the e-mail or electronic registration. Members added via the Family rate will not be allowed voting rights. <https://dallasmakerspace.org/wiki/Rules_and_Policies#Voting_Rights>
+A member’s application to change from Supporting Member to Regular Member must be submitted: Thru the DMS Voting Registration site at <https://votingrights.dallasmakerspace.org> allowing you to add or remove your own voting right Via email to <accounts@dallasmakerspace.org> from the email address registered on their account, Thru other electronic registration approved by the Board of Directors. Rights will be effective upon receipt of the e-mail or electronic registration. Members added via the Family rate will not be allowed voting rights. [https://dallasmakerspace.org/wiki/Rules_and_Policies#Voting_Rights](/dms-source/archive/dallas-makerspace/rules-and-policies/#Voting_Rights)
 
 ------------------------------------------------------------------------
 

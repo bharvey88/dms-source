@@ -34,11 +34,11 @@ lastUpdated: 2024-08-25
 </tr>
 <tr>
 <td>Original DMS Wiki</td>
-<td><p><a href="https://dallasmakerspace.org/wiki/Main_Page">dallasmakerspace.org/wiki/Main_Page</a></p></td>
+<td><p><a href="/dms-source/archive/uncategorized/main-page/">dallasmakerspace.org/wiki/Main_Page</a></p></td>
 </tr>
 <tr>
 <td>Equipment &amp; Tools Page</td>
-<td><p><a href="https://dallasmakerspace.org/wiki/Tools">dallasmakerspace.org/wiki/Tools</a></p></td>
+<td><p><a href="/dms-source/archive/dallas-makerspace/tools/">dallasmakerspace.org/wiki/Tools</a></p></td>
 </tr>
 </tbody>
 </table>

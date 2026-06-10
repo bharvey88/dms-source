@@ -4,35 +4,35 @@ description: "20200806 19:00Meeting IDhttps://meet.google.com/chc-ynqw-qfb Phone
 sourceUrl: "https://source.dallasmakerspace.org/display/Board/2020-08-06+Board+Meeting"
 lastUpdated: 2023-06-29
 ---
-- [1 Time, location](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Time.2C_location)
-- [2 Prior minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Prior_minutes)
-- [3 Financial Statement](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Financial_Statement)
-- [4 Member Recognition and Complaints](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Member_Recognition_and_Complaints)
-- [5 Old Business](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Old_Business)
-  - [5.1 Pay To Play](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Pay_To_Play)
-- [6 Consent Agenda](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Consent_Agenda)
-  - [6.1 Scheduled Board Meetings](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Scheduled_Board_Meetings)
-  - [6.2 Formal Complaints](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Formal_Complaints)
-  - [6.3 Appoint Chairs](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Appoint_Chairs)
-  - [6.4 Committee Online Meeting Requirement](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Committee_Online_Meeting_Requirement)
-  - [6.5 Appoint Treasurer, Secretary, and Logistics Head (Brad Sims)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Appoint_Treasurer.2C_Secretary.2C_and_Logistics_Head_.28Brad_Sims.29)
-  - [6.6 Dissolve Computer Committee and Hatchers Committee (Brad Sims)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Dissolve_Computer_Committee_and_Hatchers_Committee_.28Brad_Sims.29)
-  - [6.7 Purchase Scribe Tool for Dynatorch](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Purchase_Scribe_Tool_for_Dynatorch)
-  - [6.8 Clarify Communications Policy](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Clarify_Communications_Policy)
-  - [6.9 Online Meeting Requirement](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Online_Meeting_Requirement)
-  - [6.10 Online Class Honorarium](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Online_Class_Honorarium)
-  - [6.11 Public Google Meeting Records](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Public_Google_Meeting_Records)
-  - [6.12 Special Board Meeting Limits](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Special_Board_Meeting_Limits)
-  - [6.13 Procure Proper Lock-Out Tag-Out Stations](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Procure_Proper_Lock-Out_Tag-Out_Stations)
-  - [6.14 Lecture Hall Video Hardware](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Lecture_Hall_Video_Hardware)
-  - [6.15 3D Scanner Purchase Splitting](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#3D_Scanner_Purchase_Splitting)
-  - [6.16 ~~Suspend (12 months) or Permanently Ban Mike Cole (@Draco) from TALK~~ (item withdrawn per intervening action by TALK moderator team)](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Suspend_.2812_months.29_or_Permanently_Ban_Mike_Cole_.28.40Draco.29_from_TALK_.28item_withdrawn_per_intervening_action_by_TALK_moderator_team.29)
-  - [6.17 Accept the Donation for an Erectorbot large scale 3d printer](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Accept_the_Donation_for_an_Erectorbot_large_scale_3d_printer)
-- [7 New Business](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#New_Business)
-- [8 Emergency Items](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Emergency_Items)
-- [9 Set Next BoD Meeting](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Set_Next_BoD_Meeting)
-- [10 Minutes](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Minutes)
-- [11 Action Items](https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200806#Action_Items)
+- [1 Time, location](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Time.2C_location)
+- [2 Prior minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Prior_minutes)
+- [3 Financial Statement](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Financial_Statement)
+- [4 Member Recognition and Complaints](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Member_Recognition_and_Complaints)
+- [5 Old Business](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Old_Business)
+  - [5.1 Pay To Play](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Pay_To_Play)
+- [6 Consent Agenda](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Consent_Agenda)
+  - [6.1 Scheduled Board Meetings](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Scheduled_Board_Meetings)
+  - [6.2 Formal Complaints](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Formal_Complaints)
+  - [6.3 Appoint Chairs](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Appoint_Chairs)
+  - [6.4 Committee Online Meeting Requirement](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Committee_Online_Meeting_Requirement)
+  - [6.5 Appoint Treasurer, Secretary, and Logistics Head (Brad Sims)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Appoint_Treasurer.2C_Secretary.2C_and_Logistics_Head_.28Brad_Sims.29)
+  - [6.6 Dissolve Computer Committee and Hatchers Committee (Brad Sims)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Dissolve_Computer_Committee_and_Hatchers_Committee_.28Brad_Sims.29)
+  - [6.7 Purchase Scribe Tool for Dynatorch](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Purchase_Scribe_Tool_for_Dynatorch)
+  - [6.8 Clarify Communications Policy](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Clarify_Communications_Policy)
+  - [6.9 Online Meeting Requirement](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Online_Meeting_Requirement)
+  - [6.10 Online Class Honorarium](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Online_Class_Honorarium)
+  - [6.11 Public Google Meeting Records](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Public_Google_Meeting_Records)
+  - [6.12 Special Board Meeting Limits](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Special_Board_Meeting_Limits)
+  - [6.13 Procure Proper Lock-Out Tag-Out Stations](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Procure_Proper_Lock-Out_Tag-Out_Stations)
+  - [6.14 Lecture Hall Video Hardware](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Lecture_Hall_Video_Hardware)
+  - [6.15 3D Scanner Purchase Splitting](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#3D_Scanner_Purchase_Splitting)
+  - [6.16 ~~Suspend (12 months) or Permanently Ban Mike Cole (@Draco) from TALK~~ (item withdrawn per intervening action by TALK moderator team)](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Suspend_.2812_months.29_or_Permanently_Ban_Mike_Cole_.28.40Draco.29_from_TALK_.28item_withdrawn_per_intervening_action_by_TALK_moderator_team.29)
+  - [6.17 Accept the Donation for an Erectorbot large scale 3d printer](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Accept_the_Donation_for_an_Erectorbot_large_scale_3d_printer)
+- [7 New Business](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#New_Business)
+- [8 Emergency Items](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Emergency_Items)
+- [9 Set Next BoD Meeting](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Set_Next_BoD_Meeting)
+- [10 Minutes](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Minutes)
+- [11 Action Items](/dms-source/archive/dallas-makerspace/board-of-directors-meeting-20200806/#Action_Items)
 
 ## Time, location
 
@@ -45,13 +45,13 @@ PIN: ‪625 741 483 4617#‬ (Google Meet)
 
 ## Prior minutes
 
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200322#Minutes>\
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200326_Special_Meeting>\
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200514_Special_Meeting>\
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200612_Special_Meeting>\
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200702_Special_Meeting>\
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200709_Special_Meeting>\
-<https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200715_Special_Meeting>
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200322#Minutes](/dms-source/archive/meetings/board-of-directors-meeting-20200322/#Minutes)\
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200326_Special_Meeting](/dms-source/archive/meetings/board-of-directors-meeting-20200326-special-meeting/)\
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200514_Special_Meeting](/dms-source/archive/meetings/board-of-directors-meeting-20200514-special-meeting/)\
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200612_Special_Meeting](/dms-source/archive/meetings/board-of-directors-meeting-20200612-special-meeting/)\
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200702_Special_Meeting](/dms-source/archive/meetings/board-of-directors-meeting-20200702-special-meeting/)\
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200709_Special_Meeting](/dms-source/archive/meetings/board-of-directors-meeting-20200709-special-meeting/)\
+[https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20200715_Special_Meeting](/dms-source/archive/meetings/board-of-directors-meeting-20200715-special-meeting/)
 
 ## Financial Statement
 
@@ -97,7 +97,7 @@ Please note, agenda items (Consent, New, or Old) that request spending \$200 or 
 
 **Problem**: The Board often needs to meet on short notice to address items of urgency or requiring closed meetings; the Rules should be corrected to allow for such meetings without the publication requirement so as not to impede the Board's requirements to act.
 
-**Solution**: Update [Rules & Policies Organization Meetings](https://dallasmakerspace.org/wiki/Rules_and_Policies#Organizational_Meetings), rule 1 to read as follows:
+**Solution**: Update [Rules & Policies Organization Meetings](/dms-source/archive/dallas-makerspace/rules-and-policies/#Organizational_Meetings), rule 1 to read as follows:
 
 > Board meetings with open agendas shall be posted on the Dallas Makerspace Events calendar
 
@@ -109,7 +109,7 @@ Please note, agenda items (Consent, New, or Old) that request spending \$200 or 
 
 **Problem**: The present rules imply that the Board is obligated to hear formal complaints - a process that can waste organizational time if the complaint is obviously frivolous or lacking merit.
 
-**Solution**: Update [Rules and Policies Formal Complaints](https://dallasmakerspace.org/wiki/Rules_and_Policies#Formal_Complaints), rule 2 to read as follows:
+**Solution**: Update [Rules and Policies Formal Complaints](/dms-source/archive/dallas-makerspace/rules-and-policies/#Formal_Complaints), rule 2 to read as follows:
 
 > The Board of Directors may decide through informal consensus to either hold a special meeting regarding this matter or consider it at the next meeting in its cycle.
 
@@ -229,7 +229,7 @@ Please note, agenda items (Consent, New, or Old) that request spending \$200 or 
 
 **Problem**: Special Board Meetings have been overused and commonly closed. This limits the ability for the membership to take part in and/or observe discussions surrounding agenda items. There is no limit on the number of Regular Board Meetings nor to the ability to move agenda items to a newly scheduled continuance if the meeting goes too long.
 
-**Solution**: Add to the [Rules & Policies Organization Meetings](https://dallasmakerspace.org/wiki/Rules_and_Policies#Organizational_Meetings) a section to read as follows:
+**Solution**: Add to the [Rules & Policies Organization Meetings](/dms-source/archive/dallas-makerspace/rules-and-policies/#Organizational_Meetings) a section to read as follows:
 
     Special Board Meetings may only be held under the following conditions:
 
@@ -704,6 +704,6 @@ Items requiring immediate action by the BoD for safety.
 |  |  |  |
 |----|----|----|
 | Status | Item Description | Responsible Party |
-| \[ \] | Update rules about using DMS emails 3rd Party emails. Reference: <https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20190825#Require_Chairs_use_DMS_Email_.28Erik_Smith_on_behalf_of_Jim_Hartnett.29> or clear up in Infrastructure Policies Document in process. | Secretary |
+| \[ \] | Update rules about using DMS emails 3rd Party emails. Reference: [https://dallasmakerspace.org/wiki/Board_of_Directors_Meeting_20190825#Require_Chairs_use_DMS_Email\_.28Erik_Smith_on_behalf_of_Jim_Hartnett.29](/dms-source/archive/archive/board-of-directors-meeting-20190825/#Require_Chairs_use_DMS_Email_.28Erik_Smith_on_behalf_of_Jim_Hartnett.29) or clear up in Infrastructure Policies Document in process. | Secretary |
 | \[ \] | Update the rules per the above link | Secretary |
 | \[ \] | Inventory items in Hatchers for plan to deal with assets | BoD |

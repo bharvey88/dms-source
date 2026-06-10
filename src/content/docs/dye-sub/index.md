@@ -14,7 +14,7 @@ Dye sublimation inks bond with polyester fibers, and some other man-made materia
 
 ### What kind of designs can you use to decorate items?
 
-Anything you can create in a computer program that can print to a printer. Photos, logos, digital artwork, text, scanned images, etc… How big does my image need to be? See this explanation of digital printing and image resolution. [Digital Printing Resolution](https://dallasmakerspace.org/wiki/Digital_Printing_Resolution)
+Anything you can create in a computer program that can print to a printer. Photos, logos, digital artwork, text, scanned images, etc… How big does my image need to be? See this explanation of digital printing and image resolution. [Digital Printing Resolution](/dms-source/archive/uncategorized/digital-printing-resolution/)
 
 ### Can I decorate dark items (i.e. shirts, hats, etc.)?
 
@@ -82,8 +82,8 @@ Additional useful items:
 
 ## Meetings
 
-- [Dye_Sublimation_SIG_Meeting_Template](https://dallasmakerspace.org/wiki/Dye_Sublimation_SIG_Meeting_Template)
-- [Dye_Sublimation_SIG_Meeting_20190928](https://dallasmakerspace.org/wiki/Dye_Sublimation_SIG_Meeting_20190928)
+- [Dye_Sublimation_SIG_Meeting_Template](/dms-source/archive/meetings/dye-sublimation-sig-meeting-template/)
+- [Dye_Sublimation_SIG_Meeting_20190928](/dms-source/archive/meetings/dye-sublimation-sig-meeting-20190928/)
 
 ## DMS Dye Sublimation Tools
 

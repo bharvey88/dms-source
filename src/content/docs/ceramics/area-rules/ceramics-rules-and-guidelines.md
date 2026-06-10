@@ -7,19 +7,6 @@ lastUpdated: 2025-11-30
 **Table of Contents\**
 ----------------------
 
-- [Age Restrictions](#CeramicsRules&Guidelines-AgeRestrictions)
-- [The Shelving System](#CeramicsRules&Guidelines-TheShelvingSystem)
-  - [In-Progress Shelves](#CeramicsRules&Guidelines-In-ProgressShelves)
-  - [Greenware to be Fired](#CeramicsRules&Guidelines-GreenwaretobeFired)
-  - [Glazed Items to be Fired](#CeramicsRules&Guidelines-GlazedItemstobeFired)
-  - [Needs Attention Shelf](#CeramicsRules&Guidelines-NeedsAttentionShelf)
-- [Shelf Use Time](#CeramicsRules&Guidelines-ShelfUseTime)
-- [Maintaining and Cleaning the Space](#CeramicsRules&Guidelines-MaintainingandCleaningtheSpace)
-  - [General](#CeramicsRules&Guidelines-General)
-  - [Slab Roller](#CeramicsRules&Guidelines-SlabRoller)
-  - [Slip Casting and Hump Molds](#CeramicsRules&Guidelines-SlipCastingandHumpMolds)
-  - [Throwing Wheels](#CeramicsRules&Guidelines-ThrowingWheels)
-
 
 
 ## **Age Restrictions**

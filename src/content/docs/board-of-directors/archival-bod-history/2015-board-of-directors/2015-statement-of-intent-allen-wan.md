@@ -26,7 +26,7 @@ The overly detail oriented attitude of our administration extends to the members
 
 This kind of disconnect between what is demanded and what is provided is not only frustrating, but insidious. Frustration causes key volunteers to lose interest. As an organization that depends on volunteers, we need to keep our high contributors happy.
 
-The Space exists to enable the creative endeavors of our members and the greater community. More to the point though, our members are what make the Space possible. The Space exists for their benefit. Things like **tape, paper, X-Acto knives, Sharpies, glue, and even basic screws and nuts and bolts**<sup>[\[1\]](https://dallasmakerspace.org/wiki/2015_Statement_of_Intent_Allen_Wan#cite_note-1)</sup> should be provided. These are fundamental tenets of my platform and among the first things I will fight to change.
+The Space exists to enable the creative endeavors of our members and the greater community. More to the point though, our members are what make the Space possible. The Space exists for their benefit. Things like **tape, paper, X-Acto knives, Sharpies, glue, and even basic screws and nuts and bolts**<sup>[\[1\]](/dms-source/archive/dallas-makerspace/2015-statement-of-intent-allen-wan/#cite_note-1)</sup> should be provided. These are fundamental tenets of my platform and among the first things I will fight to change.
 
 ## What can I offer?
 

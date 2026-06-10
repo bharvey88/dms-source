@@ -27,7 +27,7 @@ Notes Regarding Head Crashes:
 - The Thunder Laser Nova 35 & 63 have servos (steppers with optical encoders). If it senses a lot of skipped steps it just gives up and assumes something has gone terribly wrong. This can crash the head. Resetting the machine clears things and it should go back to normal operation.
 - The "reset" button also helps when the machine loses track of its place. It forces a re-Home and then rights itself. This can happen with the rotary attachment too.
 
-(Note: this link to be deleted when page retired) Wiki page for Thunder Laser - <https://dallasmakerspace.org/wiki/Thunder_Laser>
+(Note: this link to be deleted when page retired) Wiki page for Thunder Laser - [https://dallasmakerspace.org/wiki/Thunder_Laser](/dms-source/archive/dallas-makerspace/thunder-laser/)
 
 ### Epilog Fusion Pro 32
 

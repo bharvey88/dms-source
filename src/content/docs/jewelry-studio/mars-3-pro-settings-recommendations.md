@@ -8,8 +8,6 @@ Here you will find settings recommendations that members have supplied for vario
 
 ### Resin Types
 
-- [BlueCast XOne resin](#Mars3ProSettingsRecommendations-BlueCastXOneresin)
-
 ## BlueCast XOne resin
 
 Submitted by user Chris Marlow

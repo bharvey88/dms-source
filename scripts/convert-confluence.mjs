@@ -125,6 +125,36 @@ for (const space of spaces) {
   assignRoutes(roots, [dir], space.key, taken);
 }
 
+// ---------- legacy wiki route map (produced by convert-mediawiki.mjs) ----------
+let mwRoutes = {};
+let mwRedirects = {};
+try {
+  mwRoutes = JSON.parse(await readFile(path.join(ROOT, 'migration', 'mediawiki', 'routes.json'), 'utf8'));
+  mwRedirects = JSON.parse(await readFile(path.join(ROOT, 'migration', 'mediawiki', 'redirects.json'), 'utf8'));
+} catch {
+  console.warn('no mediawiki route map yet — run convert-mediawiki.mjs first to link legacy pages locally');
+}
+const normMwTitle = (t) => {
+  const s = t.replace(/_/g, ' ').trim();
+  return (s.charAt(0).toUpperCase() + s.slice(1)).toLowerCase();
+};
+
+function resolveLegacyWikiLink(url) {
+  const m = url.pathname.match(/^\/wiki\/(.+)$/);
+  if (!m) return null;
+  let title;
+  try {
+    title = decodeURIComponent(m[1]);
+  } catch {
+    title = m[1];
+  }
+  if (/^[A-Za-z_]+:/.test(title)) return null; // File:, Category:, Special:, ...
+  title = title.replace(/_/g, ' ');
+  const target = mwRedirects[title] ?? mwRedirects[title.replace(/ /g, '_')] ?? title;
+  const route = mwRoutes[normMwTitle(target)];
+  return route ? `${SITE_BASE}${route}${url.hash ?? ''}` : null;
+}
+
 // ---------- conversion ----------
 const assets = new Map(); // absolute url (no query) -> public-relative path
 const unresolved = [];
@@ -195,7 +225,9 @@ function rewriteLink(href, page) {
       /* fall through to internal handling */
     } else return href;
   }
-  if (url.origin === 'https://dallasmakerspace.org') return href; // legacy wiki links handled in MW pass
+  if (url.origin === 'https://dallasmakerspace.org') {
+    return resolveLegacyWikiLink(url) ?? href;
+  }
   const hash = url.hash ?? '';
 
   if (url.pathname === '/pages/viewpage.action') {
@@ -238,7 +270,8 @@ function preprocess(page) {
   $('style, script, .hidden, .aui-icon, .expand-control-icon').remove();
 
   // dynamic macros that have no meaning in a static export
-  $('.recently-updated, .update-item, .aui-avatar, .livesearch-macro, .calendar-container').remove();
+  // (.toc-macro: Starlight renders its own "On this page" TOC)
+  $('.recently-updated, .update-item, .aui-avatar, .livesearch-macro, .calendar-container, .toc-macro').remove();
   $('h1,h2,h3,h4,h5,h6').each((_, el) => {
     if (/^recent (space )?activity$/i.test($(el).text().trim())) $(el).remove();
   });

@@ -51,7 +51,7 @@ The [DMS Bylaws](/dms-source/rules-and-policies/bylaws/#Bylaws-Section4.6.1Board
 
 ### Procedures
 
-The [current election procedure is described at this link](https://dallasmakerspace.org/wiki/Board_of_Directors_Annual_Election_Procedures). (from 2018)
+The [current election procedure is described at this link](/dms-source/archive/dallas-makerspace/board-of-directors-annual-election-procedures/). (from 2018)
 
 ### Voting Rights
 

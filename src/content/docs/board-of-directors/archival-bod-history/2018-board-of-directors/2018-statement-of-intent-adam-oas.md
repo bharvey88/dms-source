@@ -4,7 +4,7 @@ description: "This letter is to serve as formal notification as required by §4.
 sourceUrl: "https://source.dallasmakerspace.org/display/Board/2018+Statement+of+Intent+Adam+Oas"
 lastUpdated: 2022-11-08
 ---
-This letter is to serve as formal notification as required by §4.6.1(5) of the Dallas Makerspace Bylaws that I am officially submitting my name as a candidate for election to the [Board of Directors](https://dallasmakerspace.org/wiki/Board_of_Directors) for The Dallas Makerspace for the 2018 annual term.
+This letter is to serve as formal notification as required by §4.6.1(5) of the Dallas Makerspace Bylaws that I am officially submitting my name as a candidate for election to the [Board of Directors](/dms-source/archive/dallas-makerspace/board-of-directors/) for The Dallas Makerspace for the 2018 annual term.
 
 I have been a member of the Dallas Makerspace for approximately two and a half years and have very much come to enjoy my time at the space! I have served as chairperson of the [PR_Committee](https://dallasmakerspace.org/wiki/PR_Committee) with the primary successes being the hosting of the annual open house, as well as the continued growth of the Makerspace's membership through off site presentations as well as continued support of the weekly tour nights, which are increasingly popular and a great opportunity for growth for the Dallas Makerspace as a whole. I have taught classes in Metal Shop in support of the PlasmaCam as well as many classes on our Vinyl Cutter in the Creative Arts classroom.
 

@@ -44,8 +44,8 @@ A capital equipment form ([listed at the bottom of the Finance forms list](https
 - **3D Fabrication** : TBD
 - **Automotive** : TBC
 - **Blacksmithing** : TBC
-- **Ceramics** : Amanda Star Cline [(Committee Meeting Minutes)](https://dallasmakerspace.org/wiki/Ceramics_Committee_Meeting_20201201)
-- **Creative Arts** : Judy Kriehn [(Committee Meeting Minutes)](https://dallasmakerspace.org/wiki/Creative_arts_committee_meeting_20201013)
+- **Ceramics** : Amanda Star Cline [(Committee Meeting Minutes)](/dms-source/archive/meetings/ceramics-committee-meeting-20201201/)
+- **Creative Arts** : Judy Kriehn [(Committee Meeting Minutes)](/dms-source/archive/meetings/creative-arts-committee-meeting-20201013/)
 - **Digital Media** : TBD
 - **Electronics** : TBD
 - **GlassWorks** : TBD
@@ -54,9 +54,9 @@ A capital equipment form ([listed at the bottom of the Finance forms list](https
 - **Machine Shop** : TBD
 - **Metal Shop** : TBD
 - **Motorsports** : Chuck Graf
-- **Printmaking** : Lisa Gabriel [(Committee Meeting Minutes)](https://dallasmakerspace.org/wiki/Printmaking_Committee_Meeting_20201119)
+- **Printmaking** : Lisa Gabriel [(Committee Meeting Minutes)](/dms-source/archive/archive/printmaking-committee-meeting-20201119/)
 - **Science** : TBD
-- **VECTOR** : Stephen Wylie ([Committee Meeting Minutes](https://dallasmakerspace.org/wiki/VECTOR_Committee_Reports_2020-10-26))
+- **VECTOR** : Stephen Wylie ([Committee Meeting Minutes](/dms-source/archive/uncategorized/vector-committee-reports-2020-10-26/))
 - **Woodshop** : Ian Lee
 
 ### CA2 (Submitter)

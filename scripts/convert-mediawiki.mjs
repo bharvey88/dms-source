@@ -265,6 +265,8 @@ for (const cat of catsSorted) {
 }
 
 await writeFile(path.join(OUT, 'assets.json'), JSON.stringify(Object.fromEntries(assets), null, 1));
+// title -> route map so the Confluence converter can rewrite legacy wiki links
+await writeFile(path.join(OUT, 'routes.json'), JSON.stringify(Object.fromEntries(routeByTitle), null, 1));
 await writeFile(path.join(OUT, 'unresolved.json'), JSON.stringify(unresolved, null, 1));
 console.log(
   `DONE: ${done - failures.length} converted, ${failures.length} failed, ${assets.size} images, ${unresolved.length} unresolved links, ${byCategory.size} categories`

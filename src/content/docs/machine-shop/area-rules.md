@@ -24,7 +24,7 @@ lastUpdated: 2024-04-28
 - Minimum Age To Use Tools: You MUST be a minimum of age of 18 to use any powered tools unsupervised in the Machine Shop. Special conditions for ages 16 - 18 are detailed at the beginning of the [Training section](https://dallasmakerspace.org/wiki/Machine_Shop_Committee#Training).
 - If you aren't 100% sure that you know how to use the equipment safely and correctly, ask for help (machineshop@[dallasmakerspace.org](http://dallasmakerspace.org/))
 - Comply with all equipment operating instructions and restrictions posted on individual machines
-- If you break a tool, or notice a broken or missing tool, add it to the "Supplies/Replacement Tooling" section of the Machine Shop Tasks page ([Machine Shop Tasks](https://dallasmakerspace.org/wiki/Machine_Shop_Tasks)). Please create an Issues and Request message on TALK.
+- If you break a tool, or notice a broken or missing tool, add it to the "Supplies/Replacement Tooling" section of the Machine Shop Tasks page ([Machine Shop Tasks](/dms-source/archive/machine-shop/machine-shop-tasks/)). Please create an Issues and Request message on TALK.
 - Common sense should prevail. If something doesn't seem right - STOP. Ask someone to check before proceeding.
 
 ### When Finished
@@ -73,7 +73,7 @@ DMS has a long tradition of trying to keep its members safe. Certain actions of 
   - Minimum Age To Use Tools: You MUST be a minimum of age of 18 to use any powered tools unsupervised in the Machine Shop. Special conditions for ages 16 - 18 are detailed at the beginning of the [Training section](https://dallasmakerspace.org/wiki/Machine_Shop_Committee#Training).
   - If you aren't 100% sure that you know how to use the equipment safely and correctly, ask for help (machineshop@[dallasmakerspace.org](http://dallasmakerspace.org/))
   - Comply with all equipment operating instructions and restrictions posted on individual machines
-  - If you break a tool, or notice a broken or missing tool, add it to the "Supplies/Replacement Tooling" section of the Machine Shop Tasks page ([Machine Shop Tasks](https://dallasmakerspace.org/wiki/Machine_Shop_Tasks)). Please create an Issues and Request message on TALK.
+  - If you break a tool, or notice a broken or missing tool, add it to the "Supplies/Replacement Tooling" section of the Machine Shop Tasks page ([Machine Shop Tasks](/dms-source/archive/machine-shop/machine-shop-tasks/)). Please create an Issues and Request message on TALK.
   - Common sense should prevail. If something doesn't seem right - STOP. Ask someone to check before proceeding.
 
   ### When Finished
